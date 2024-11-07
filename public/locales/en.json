@@ -98,14 +98,12 @@
       "flash_fire": "Flash Fire",
       "well_baked_body": "Well-Baked Body",
       "dry_skin": "Dry Skin",
-	  "exoskeleton": "Exoskeleton",
       "storm_drain": "Storm Drain",
       "water_absorb": "Water Absorb",
       "sap_sipper": "Sap Sipper",
       "lightning_rod": "Lightning Rod",
       "motor_drive": "Motor Drive",
-      "volt_absorb": "Volt Absorb",
-	  "water_compaction": "Water Compaction"
+      "volt_absorb": "Volt Absorb"
     },
     "mode": {
       "heading": "Choose mode",

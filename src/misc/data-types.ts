@@ -81,15 +81,8 @@ export const abilities = {
     { type: Type.fire, value: 1.25 },
     { type: Type.water, value: 0 }
   ),
-   exoskeleton: createAbility(
-    { type: Type.dark, value: 0.5 },
-    { type: Type.fighting, value: 0.5 },
-	{ type: Type.grass, value: 0.5 },
-    { type: Type.ground, value: 0.5 }
-  ),
   storm_drain: createAbility({ type: Type.water, value: 0 }),
   water_absorb: createAbility({ type: Type.water, value: 0 }),
-  water_compaction: createAbility({ type: Type.water, value: 0 }),
   sap_sipper: createAbility({ type: Type.grass, value: 0 }),
   lightning_rod: createAbility({ type: Type.electric, value: 0 }),
   motor_drive: createAbility({ type: Type.electric, value: 0 }),
