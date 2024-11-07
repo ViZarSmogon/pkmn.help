@@ -65,31 +65,24 @@ export const abilities = {
   // Weakness
   fluffy: createAbility({ type: Type.fire, value: 2 }),
   // Resistances
-  purifying_salt: createAbility({ type: Type.ghost, value: 0.5 }),
+  purifying_salt: createAbility({ type: Type.psychic, value: 0.5 }),
   heatproof: createAbility({ type: Type.fire, value: 0.5 }),
   water_bubble: createAbility({ type: Type.fire, value: 0.5 }),
   thick_fat: createAbility(
     { type: Type.fire, value: 0.5 },
-    { type: Type.ice, value: 0.5 }
+    { type: Type.water, value: 0.5 }
   ),
   // Immunities
-  earth_eater: createAbility({ type: Type.ground, value: 0 }),
-  levitate: createAbility({ type: Type.ground, value: 0 }),
+  earth_eater: createAbility({ type: Type.fighting, value: 0 }),
+  levitate: createAbility({ type: Type.fighting, value: 0 }),
   flash_fire: createAbility({ type: Type.fire, value: 0 }),
   well_baked_body: createAbility({ type: Type.fire, value: 0 }),
   dry_skin: createAbility(
     { type: Type.fire, value: 1.25 },
     { type: Type.water, value: 0 }
   ),
-   exoskeleton: createAbility(
-    { type: Type.dark, value: 0.5 },
-    { type: Type.fighting, value: 0.5 },
-	{ type: Type.grass, value: 0.5 },
-    { type: Type.ground, value: 0.5 }
-  ),
   storm_drain: createAbility({ type: Type.water, value: 0 }),
   water_absorb: createAbility({ type: Type.water, value: 0 }),
-  water_compaction: createAbility({ type: Type.water, value: 0 }),
   sap_sipper: createAbility({ type: Type.grass, value: 0 }),
   lightning_rod: createAbility({ type: Type.electric, value: 0 }),
   motor_drive: createAbility({ type: Type.electric, value: 0 }),
@@ -165,22 +158,14 @@ export function typesFromUserInput({
 export const types = [
   Type.normal,
   Type.fighting,
-  Type.flying,
-  Type.poison,
-  Type.ground,
-  Type.rock,
-  Type.bug,
-  Type.ghost,
   Type.steel,
   Type.fire,
   Type.water,
   Type.grass,
   Type.electric,
   Type.psychic,
-  Type.ice,
   Type.dragon,
   Type.dark,
-  Type.fairy,
   Type.stellar,
 ];
 

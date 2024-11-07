@@ -15,19 +15,11 @@ const typesInPokemondbOrder = [
   Type.water,
   Type.electric,
   Type.grass,
-  Type.ice,
   Type.fighting,
-  Type.poison,
-  Type.ground,
-  Type.flying,
   Type.psychic,
-  Type.bug,
-  Type.rock,
-  Type.ghost,
   Type.dragon,
   Type.dark,
   Type.steel,
-  Type.fairy,
   Type.stellar,
 ];
 
@@ -36,69 +28,45 @@ const h = 1 / 2;
 const x = NaN;
 
 const gen1 = [
-  [_, _, _, _, _, _, _, _, _, _, _, _, h, 0, _, x, x, x, x],
-  [_, h, h, _, 2, 2, _, _, _, _, _, 2, h, _, h, x, x, x, x],
-  [_, 2, h, _, h, _, _, _, 2, _, _, _, 2, _, h, x, x, x, x],
-  [_, _, 2, h, h, _, _, _, 0, 2, _, _, _, _, h, x, x, x, x],
-  [_, h, 2, _, h, _, _, h, 2, h, _, h, 2, _, h, x, x, x, x],
-  [_, _, h, _, 2, h, _, _, 2, 2, _, _, _, _, 2, x, x, x, x],
-  [2, _, _, _, _, 2, _, h, _, h, h, h, 2, 0, _, x, x, x, x],
-  [_, _, _, _, 2, _, _, h, h, _, _, 2, h, h, _, x, x, x, x],
-  [_, 2, _, 2, h, _, _, 2, _, 0, _, h, 2, _, _, x, x, x, x],
-  [_, _, _, h, 2, _, 2, _, _, _, _, 2, h, _, _, x, x, x, x],
-  [_, _, _, _, _, _, 2, 2, _, _, h, _, _, _, _, x, x, x, x],
-  [_, h, _, _, 2, _, h, 2, _, h, 2, _, _, h, _, x, x, x, x],
-  [_, 2, _, _, _, 2, h, _, h, 2, _, 2, _, _, _, x, x, x, x],
-  [0, _, _, _, _, _, _, _, _, _, 0, _, _, 2, _, x, x, x, x],
-  [_, _, _, _, _, _, _, _, _, _, _, _, _, _, 2, x, x, x, x],
-  [x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x],
-  [x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x],
-  [x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x],
-  [x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x],
-  [x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x],
+  [_, _, _, _, _, _, _, _, x, x, x],
+  [_, h, h, _, 2, _, _, h, x, x, x],
+  [_, 2, h, _, h, _, _, h, x, x, x],
+  [_, _, 2, h, h, _, _, h, x, x, x],
+  [_, h, 2, _, h, _, _, h, x, x, x],
+  [0, _, _, _, _, _, h, _, x, x, x],
+  [_, _, _, _, _, 2, h, _, x, x, x],
+  [_, _, _, _, _, _, _, 2, x, x, x],
+  [x, x, x, x, x, x, x, x, x, x, x],
+  [x, x, x, x, x, x, x, x, x, x, x],
+  [x, x, x, x, x, x, x, x, x, x, x],
 ];
 
 const gen2 = [
-  [_, _, _, _, _, _, _, _, _, _, _, _, h, 0, _, _, h, x, x],
-  [_, h, h, _, 2, 2, _, _, _, _, _, 2, h, _, h, _, 2, x, x],
-  [_, 2, h, _, h, _, _, _, 2, _, _, _, 2, _, h, _, _, x, x],
-  [_, _, 2, h, h, _, _, _, 0, 2, _, _, _, _, h, _, _, x, x],
-  [_, h, 2, _, h, _, _, h, 2, h, _, h, 2, _, h, _, h, x, x],
-  [_, h, h, _, 2, h, _, _, 2, 2, _, _, _, _, 2, _, h, x, x],
-  [2, _, _, _, _, 2, _, h, _, h, h, h, 2, 0, _, 2, 2, x, x],
-  [_, _, _, _, 2, _, _, h, h, _, _, _, h, h, _, _, 0, x, x],
-  [_, 2, _, 2, h, _, _, 2, _, 0, _, h, 2, _, _, _, 2, x, x],
-  [_, _, _, h, 2, _, 2, _, _, _, _, 2, h, _, _, _, h, x, x],
-  [_, _, _, _, _, _, 2, 2, _, _, h, _, _, _, _, 0, h, x, x],
-  [_, h, _, _, 2, _, h, h, _, h, 2, _, _, h, _, 2, h, x, x],
-  [_, 2, _, _, _, 2, h, _, h, 2, _, 2, _, _, _, _, h, x, x],
-  [0, _, _, _, _, _, _, _, _, _, 2, _, _, 2, _, h, h, x, x],
-  [_, _, _, _, _, _, _, _, _, _, _, _, _, _, 2, _, h, x, x],
-  [_, _, _, _, _, _, h, _, _, _, 2, _, _, 2, _, h, h, x, x],
-  [_, h, h, h, _, 2, _, _, _, _, _, _, 2, _, _, _, h, x, x],
-  [x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x],
+  [_, _, _, _, _, _, _, _, _, h, x],
+  [_, h, h, _, 2, _, _, h, _, 2, x],
+  [_, 2, h, _, h, _, _, h, _, _, x],
+  [_, _, 2, h, h, _, _, h, _, _, x],
+  [_, h, 2, _, h, _, _, h, _, h, x],
+  [0, _, _, _, _, _, h, _, 2, 2, x],
+  [_, _, _, _, _, 2, h, _, 0, h, x],
+  [_, _, _, _, _, _, _, 2, _, h, x],
+  [_, _, _, _, _, h, 2, _, h, _, x],
+  [_, h, h, h, _, _, _, _, _, h, x],
+  [x, x, x, x, x, x, x, x, x, x, x],
 ];
 
 const genDefault = [
-  [_, _, _, _, _, _, _, _, _, _, _, _, h, 0, _, _, h, _, _],
-  [_, h, h, _, 2, 2, _, _, h, _, _, 2, h, _, h, _, 2, _, _],
-  [_, 2, h, _, h, h, _, _, 2, _, _, _, 2, _, h, _, _, _, _],
-  [_, _, 2, h, h, _, _, _, 0, 2, _, _, _, _, h, _, 2, _, _],
-  [_, h, 2, _, h, _, _, h, 2, h, _, h, 2, _, h, _, h, _, _],
-  [_, h, h, _, 2, h, _, _, 2, 2, _, _, _, _, 2, _, h, _, _],
-  [2, _, _, _, _, 2, _, h, _, h, h, h, 2, 0, _, 2, 2, h, _],
-  [_, _, _, _, 2, _, _, h, h, _, _, _, h, h, _, _, 0, 2, _],
-  [_, 2, _, 2, h, h, _, 2, _, 0, _, h, 2, _, _, _, 2, _, _],
-  [_, _, _, h, 2, h, 2, _, _, _, _, 2, h, _, _, _, h, _, _],
-  [_, _, _, _, _, _, 2, 2, _, _, h, _, _, _, _, 0, h, _, _],
-  [_, h, _, _, 2, _, h, h, _, h, 2, _, _, h, _, 2, _, _, _],
-  [_, 2, _, _, h, 2, h, _, h, 2, _, 2, _, _, _, _, h, _, _],
-  [0, _, _, _, _, _, _, _, h, _, 2, _, _, 2, _, h, _, _, _],
-  [_, _, _, _, _, _, _, _, _, _, _, _, _, _, 2, _, h, 0, _],
-  [_, _, _, _, _, _, h, _, _, _, 2, h, _, 2, _, h, _, h, _],
-  [_, h, h, h, _, 2, _, _, _, _, _, _, 2, _, _, _, h, 2, _],
-  [_, h, _, _, h, _, 2, h, _, _, h, _, _, _, 2, 2, h, _, _],
-  [_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _],
+  [_, _, _, _, _, _, _, _, _, h, _],
+  [_, h, h, _, 2, _, _, h, _, 2, _],
+  [_, 2, h, _, h, _, _, h, _, _, _],
+  [_, _, 2, h, h, _, _, h, _, _, _],
+  [_, h, 2, _, h, _, _, h, _, h, _],
+  [0, _, _, _, _, _, h, _, 2, 2, _],
+  [_, _, _, _, _, 2, h, _, 0, h, _],
+  [_, _, _, _, _, _, _, 2, _, h, _],
+  [_, _, _, _, _, h, 2, _, h, _, _],
+  [_, h, h, h, _, _, _, _, _, h, _],
+  [_, _, _, _, _, _, _, _, _, _, _],
 ];
 
 const generationMatchupData = {
@@ -237,12 +205,12 @@ export function matchupFor({
     // https://bulbapedia.bulbagarden.net/wiki/Scrappy_(Ability)
     if (
       offenseAbilityName === "scrappy" &&
-      t === Type.ghost &&
-      (offenseType === Type.normal || offenseType === Type.fighting)
+      t === Type.normal &&
+      (offenseType === Type.fighting)
     ) {
       x = 1;
     }
-    if (t === Type.flying && abilityName === "delta_stream" && x > 1) {
+    if (t === Type.normal && abilityName === "delta_stream" && x > 1) {
       // Delta stream protects flying types from super effective damage
       //
       // https://bulbapedia.bulbagarden.net/wiki/Delta_Stream_(Ability)
@@ -254,7 +222,7 @@ export function matchupFor({
     if (
       t === Type.water &&
       specialMove === "freeze-dry" &&
-      offenseType === Type.ice
+      offenseType === Type.water
     ) {
       x = 2;
     }
@@ -262,9 +230,9 @@ export function matchupFor({
     //
     // https://bulbapedia.bulbagarden.net/wiki/Thousand_Arrows_(move)
     if (
-      t === Type.flying &&
+      t === Type.normal &&
       specialMove === "thousand_arrows" &&
-      offenseType === Type.ground
+      offenseType === Type.fighting
     ) {
       x = 1;
     }
