@@ -64,12 +64,14 @@ defense.abilityNames.levitate,Levitate,Levitazione
 defense.abilityNames.flash_fire,Flash Fire,Fuocardore
 defense.abilityNames.well_baked_body,Well-Baked Body,Bentostato
 defense.abilityNames.dry_skin,Dry Skin,Pellearsa
+defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,Acquascolo
 defense.abilityNames.water_absorb,Water Absorb,Assorbacqua
 defense.abilityNames.sap_sipper,Sap Sipper,Mangiaerba
 defense.abilityNames.lightning_rod,Lightning Rod,Parafulmine
 defense.abilityNames.motor_drive,Motor Drive,Elettrorapid
 defense.abilityNames.volt_absorb,Volt Absorb,Assorbivolt
+defense.abilityNames.water_compaction,Water Compaction,
 defense.mode.heading,Choose mode,Scegli modalità
 defense.mode.solo,Solo,Solo
 defense.mode.team,Team,Squadra

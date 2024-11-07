@@ -64,12 +64,14 @@ defense.abilityNames.levitate,Levitate,Sveve
 defense.abilityNames.flash_fire,Flash Fire,Blits brann
 defense.abilityNames.well_baked_body,Well-Baked Body,Godt bakt kropp
 defense.abilityNames.dry_skin,Dry Skin,Tørr hud
+defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,Stormavløp
 defense.abilityNames.water_absorb,Water Absorb,Vann absorbering
 defense.abilityNames.sap_sipper,Sap Sipper,Sevjedrikker
 defense.abilityNames.lightning_rod,Lightning Rod,Lynavleder
 defense.abilityNames.motor_drive,Motor Drive,Motordrift
 defense.abilityNames.volt_absorb,Volt Absorb,Voltabsorberende
+defense.abilityNames.water_compaction,Water Compaction,
 defense.mode.heading,Choose mode,Velg modus
 defense.mode.solo,Solo,Solo
 defense.mode.team,Team,Lag
