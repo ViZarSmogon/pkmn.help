@@ -64,7 +64,6 @@ defense.abilityNames.levitate,Levitate,Levitación
 defense.abilityNames.flash_fire,Flash Fire,Absorbe fuego
 defense.abilityNames.well_baked_body,Well-Baked Body,Cuerpo horneado
 defense.abilityNames.dry_skin,Dry Skin,Piel seca
-defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,Colector
 defense.abilityNames.water_absorb,Water Absorb,Absorbe agua
 defense.abilityNames.sap_sipper,Sap Sipper,Herbívoro
@@ -72,6 +71,18 @@ defense.abilityNames.lightning_rod,Lightning Rod,Pararrayos
 defense.abilityNames.motor_drive,Motor Drive,Electromotor
 defense.abilityNames.volt_absorb,Volt Absorb,Absorbe electricidad
 defense.abilityNames.water_compaction,Water Compaction,
+defense.abilityNames.exoskeleton,Exoskeleton,
+defense.abilityNames.gooey,Gooey,
+defense.abilityNames.immunity,Immunity,
+defense.abilityNames.steelworker,Steelworker,
+defense.abilityNames.rocky_payload,Rocky Payload,
+defense.abilityNames.illuminate,Illuminate,
+defense.abilityNames.limber,Limber,
+defense.abilityNames.insomnia,Insomnia,
+defense.abilityNames.sand_veil,Sand Veil,
+defense.abilityNames.snow_cloak,Snow Cloak,
+defense.abilityNames.leaf_guard,Leaf Guard,
+defense.abilityNames.hydration,Hydration,
 defense.mode.heading,Choose mode,Elige un modo
 defense.mode.solo,Solo,Solo
 defense.mode.team,Team,Equipo
