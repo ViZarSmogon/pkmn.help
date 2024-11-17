@@ -111,11 +111,7 @@
       "rocky_payload": "Rocky Payload",
 	  "illuminate": "Illuminate",
 	  "limber": "Limber",
-	  "insomnia": "Insomnia",
-	  "sand_veil": "Sand Veil",
-	  "snow_cloak": "Snow Cloak",
-	  "leaf_guard": "Leaf Guard",
-	  "hydration": "Hydration"
+	  "insomnia": "Insomnia"
     },
     "mode": {
       "heading": "Choose mode",

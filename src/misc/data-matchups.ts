@@ -248,18 +248,6 @@ export function matchupFor({
       // https://bulbapedia.bulbagarden.net/wiki/Delta_Stream_(Ability)
       x = 1;
     }
-	if (t === Type.grass && abilityName === "leaf_guard" && x > 1) {
-      x = 0.5;
-    }
-	if (t === Type.water && abilityName === "hydration" && x > 1) {
-      x = 0.5;
-    }
-	if (t === Type.ice && abilityName === "snow_cloak" && x > 1) {
-      x = 0.5;
-    }
-	if ((t === Type.ground || t === Type.rock) && abilityName === "sand_veil" && x > 1) {
-      x = 0.5;
-    }
     // Freeze-Dry always deals 2x to Water
     //
     // https://bulbapedia.bulbagarden.net/wiki/Freeze-Dry_(move)
