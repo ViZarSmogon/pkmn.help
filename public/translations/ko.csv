@@ -64,14 +64,12 @@ defense.abilityNames.levitate,Levitate,부유
 defense.abilityNames.flash_fire,Flash Fire,타오르는불꽃
 defense.abilityNames.well_baked_body,Well-Baked Body,노릇노릇바디
 defense.abilityNames.dry_skin,Dry Skin,건조피부
-defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,마중물
 defense.abilityNames.water_absorb,Water Absorb,저수
 defense.abilityNames.sap_sipper,Sap Sipper,흡수
 defense.abilityNames.lightning_rod,Lightning Rod,피뢰침
 defense.abilityNames.motor_drive,Motor Drive,전기엔진
 defense.abilityNames.volt_absorb,Volt Absorb,축전
-defense.abilityNames.water_compaction,Water Compaction,
 defense.mode.heading,Choose mode,배틀 룰 선택
 defense.mode.solo,Solo,싱글
 defense.mode.team,Team,더블
@@ -179,22 +177,14 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,법률 정보
 types.normal,Normal,노말
 types.fighting,Fighting,격투
-types.flying,Flying,비행
-types.poison,Poison,독
-types.ground,Ground,땅
-types.rock,Rock,바위
-types.bug,Bug,벌레
-types.ghost,Ghost,고스트
 types.steel,Steel,강철
 types.fire,Fire,불꽃
 types.water,Water,물
 types.grass,Grass,풀
 types.electric,Electric,전기
 types.psychic,Psychic,에스퍼
-types.ice,Ice,얼음
 types.dragon,Dragon,드래곤
 types.dark,Dark,악
-types.fairy,Fairy,페어리
 types.stellar,Stellar,스텔라
 types.none,None,없음
 banners.updateReady.description,An update is available,새 버전이 있습니다!

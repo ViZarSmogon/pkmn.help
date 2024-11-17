@@ -64,14 +64,12 @@ defense.abilityNames.levitate,Levitate,Levitazione
 defense.abilityNames.flash_fire,Flash Fire,Fuocardore
 defense.abilityNames.well_baked_body,Well-Baked Body,Bentostato
 defense.abilityNames.dry_skin,Dry Skin,Pellearsa
-defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,Acquascolo
 defense.abilityNames.water_absorb,Water Absorb,Assorbacqua
 defense.abilityNames.sap_sipper,Sap Sipper,Mangiaerba
 defense.abilityNames.lightning_rod,Lightning Rod,Parafulmine
 defense.abilityNames.motor_drive,Motor Drive,Elettrorapid
 defense.abilityNames.volt_absorb,Volt Absorb,Assorbivolt
-defense.abilityNames.water_compaction,Water Compaction,
 defense.mode.heading,Choose mode,Scegli modalità
 defense.mode.solo,Solo,Solo
 defense.mode.team,Team,Squadra
@@ -179,22 +177,14 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,Informazioni legali
 types.normal,Normal,Normale
 types.fighting,Fighting,Lotta
-types.flying,Flying,Volante
-types.poison,Poison,Veleno
-types.ground,Ground,Terra
-types.rock,Rock,Roccia
-types.bug,Bug,Coleottero
-types.ghost,Ghost,Spettro
 types.steel,Steel,Acciaio
 types.fire,Fire,Fuoco
 types.water,Water,Acqua
 types.grass,Grass,Erba
 types.electric,Electric,Elettro
 types.psychic,Psychic,Psico
-types.ice,Ice,Ghiaccio
 types.dragon,Dragon,Drago
 types.dark,Dark,Buio
-types.fairy,Fairy,Folletto
 types.stellar,Stellar,Astrale
 types.none,None,Nessuno
 banners.updateReady.description,An update is available,È disponibile un aggiornamento

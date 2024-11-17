@@ -64,14 +64,12 @@ defense.abilityNames.levitate,Levitate,Schwebe
 defense.abilityNames.flash_fire,Flash Fire,Feuerfänger
 defense.abilityNames.well_baked_body,Well-Baked Body,Knusperkruste
 defense.abilityNames.dry_skin,Dry Skin,Trockenheit
-defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,Sturmsog
 defense.abilityNames.water_absorb,Water Absorb,H2O-Absorber
 defense.abilityNames.sap_sipper,Sap Sipper,Vegetarier
 defense.abilityNames.lightning_rod,Lightning Rod,Blitzfänger
 defense.abilityNames.motor_drive,Motor Drive,Starthilfe
 defense.abilityNames.volt_absorb,Volt Absorb,Voltabsorber
-defense.abilityNames.water_compaction,Water Compaction,
 defense.mode.heading,Choose mode,Modus auswählen
 defense.mode.solo,Solo,Solo
 defense.mode.team,Team,Team
@@ -179,22 +177,14 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,Rechtliche Hinweise.
 types.normal,Normal,Normal
 types.fighting,Fighting,Kampf
-types.flying,Flying,Flug
-types.poison,Poison,Gift
-types.ground,Ground,Boden
-types.rock,Rock,Gestein
-types.bug,Bug,Käfer
-types.ghost,Ghost,Geist
 types.steel,Steel,Stahl
 types.fire,Fire,Feuer
 types.water,Water,Wasser
 types.grass,Grass,Pflanze
 types.electric,Electric,Elektro
 types.psychic,Psychic,Psycho
-types.ice,Ice,Eis
 types.dragon,Dragon,Drache
 types.dark,Dark,Unlicht
-types.fairy,Fairy,Fee
 types.stellar,Stellar,Stellar
 types.none,None,Kein
 banners.updateReady.description,An update is available,Ein Update ist verfügbar

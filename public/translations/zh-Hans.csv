@@ -64,14 +64,12 @@ defense.abilityNames.levitate,Levitate,飘浮
 defense.abilityNames.flash_fire,Flash Fire,引火
 defense.abilityNames.well_baked_body,Well-Baked Body,焦香之躯
 defense.abilityNames.dry_skin,Dry Skin,干燥皮肤
-defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,引水
 defense.abilityNames.water_absorb,Water Absorb,储水
 defense.abilityNames.sap_sipper,Sap Sipper,食草
 defense.abilityNames.lightning_rod,Lightning Rod,避雷针
 defense.abilityNames.motor_drive,Motor Drive,电气引擎
 defense.abilityNames.volt_absorb,Volt Absorb,蓄电
-defense.abilityNames.water_compaction,Water Compaction,
 defense.mode.heading,Choose mode,选择模式
 defense.mode.solo,Solo,单只模式
 defense.mode.team,Team,队伍模式
@@ -179,22 +177,14 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,法律信息
 types.normal,Normal,一般
 types.fighting,Fighting,格斗
-types.flying,Flying,飞行
-types.poison,Poison,毒
-types.ground,Ground,地面
-types.rock,Rock,岩石
-types.bug,Bug,虫
-types.ghost,Ghost,幽灵
 types.steel,Steel,钢
 types.fire,Fire,火
 types.water,Water,水
 types.grass,Grass,草
 types.electric,Electric,电
 types.psychic,Psychic,超能力
-types.ice,Ice,冰
 types.dragon,Dragon,龙
 types.dark,Dark,恶
-types.fairy,Fairy,妖精
 types.stellar,Stellar,星晶
 types.none,None,无
 banners.updateReady.description,An update is available,有更新可用
