@@ -87,6 +87,10 @@ export const abilities = {
   lightning_rod: createAbility({ type: Type.electric, value: 0 }),
   motor_drive: createAbility({ type: Type.electric, value: 0 }),
   volt_absorb: createAbility({ type: Type.electric, value: 0 }),
+  floof_shield: createAbility({ type: Type.fighting, value: 0 }),
+  furnace: createAbility({ type: Type.fire, value: 0 }),
+  molten_steel: createAbility({ type: Type.fire, value: 0 }),
+  stone_eater: createAbility({ type: Type.rock, value: 0 }),
   // Other
   filter: createAbility(),
   wonder_guard: createAbility(),
@@ -94,6 +98,11 @@ export const abilities = {
   tera_shell: createAbility(),
   tinted_lens: createAbility(),
   scrappy: createAbility(),
+  big_news: createAbility(),
+  bug_eater: createAbility(),
+  grounding: createAbility(),
+  sand_shield: createAbility(),
+  vibration: createAbility(),
 } as const;
 
 const abilitySet = new Set(Object.keys(abilities));

@@ -64,14 +64,21 @@ defense.abilityNames.levitate,Levitate,Levitate
 defense.abilityNames.flash_fire,Flash Fire,Flash Fire
 defense.abilityNames.well_baked_body,Well-Baked Body,Well-Baked Body
 defense.abilityNames.dry_skin,Dry Skin,Dry Skin
-defense.abilityNames.exoskeleton,Exoskeleton,Exoskeleton
 defense.abilityNames.storm_drain,Storm Drain,Storm Drain
 defense.abilityNames.water_absorb,Water Absorb,Water Absorb
 defense.abilityNames.sap_sipper,Sap Sipper,Sap Sipper
 defense.abilityNames.lightning_rod,Lightning Rod,Lightning Rod
 defense.abilityNames.motor_drive,Motor Drive,Motor Drive
 defense.abilityNames.volt_absorb,Volt Absorb,Volt Absorb
-defense.abilityNames.water_compaction,Water Compaction,Water Compaction
+defense.abilityNames.big_news,Big News,Big News
+defense.abilityNames.bug_eater,Bug Eater,Bug Eater
+defense.abilityNames.floof_shield,Floof Shield,Floof Shield
+defense.abilityNames.furnace,Furnace,Furnace
+defense.abilityNames.grounding,Grounding,Grounding
+defense.abilityNames.molten_steel,Molten Steel,Molten Steel
+defense.abilityNames.sand_shield,Sand Shield,Sand Shield
+defense.abilityNames.stone_eater,Stone Eater,Stone Eater
+defense.abilityNames.vibration,Vibration,Vibration
 defense.mode.heading,Choose mode,Choose mode
 defense.mode.solo,Solo,Solo
 defense.mode.team,Team,Team

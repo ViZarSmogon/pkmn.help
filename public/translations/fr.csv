@@ -64,14 +64,21 @@ defense.abilityNames.levitate,Levitate,Lévitation
 defense.abilityNames.flash_fire,Flash Fire,Torche
 defense.abilityNames.well_baked_body,Well-Baked Body,Bien Cuit
 defense.abilityNames.dry_skin,Dry Skin,Peau Sèche
-defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,Lavabo
 defense.abilityNames.water_absorb,Water Absorb,Absorbe-Eau
 defense.abilityNames.sap_sipper,Sap Sipper,Herbivore
 defense.abilityNames.lightning_rod,Lightning Rod,Paratonerre
 defense.abilityNames.motor_drive,Motor Drive,Motorisé
 defense.abilityNames.volt_absorb,Volt Absorb,Absorbe-Volt
-defense.abilityNames.water_compaction,Water Compaction,
+defense.abilityNames.big_news,Big News,
+defense.abilityNames.bug_eater,Bug Eater,
+defense.abilityNames.floof_shield,Floof Shield,
+defense.abilityNames.furnace,Furnace,
+defense.abilityNames.grounding,Grounding,
+defense.abilityNames.molten_steel,Molten Steel,
+defense.abilityNames.sand_shield,Sand Shield,
+defense.abilityNames.stone_eater,Stone Eater,
+defense.abilityNames.vibration,Vibration,
 defense.mode.heading,Choose mode,Sélection du mode
 defense.mode.solo,Solo,Pokémon
 defense.mode.team,Team,Équipe

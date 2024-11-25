@@ -268,6 +268,24 @@ export function matchupFor({
     ) {
       x = 1;
     }
+	if (
+      offenseAbilityName === "bug_eater" && t === Type.bug && offenseType === Type.normal
+    ) {
+      x = 2;
+    }
+	if (
+      offenseAbilityName === "grounding" && t === Type.ground && offenseType === Type.electric
+    ) {
+      x = 1;
+    }
+	if (offenseType === Type.ground && abilityName === "sand_shield" && x > 1) {
+      x = 1;
+    }
+	if (
+      t === Type.flying && offenseAbilityName === "vibration" && offenseType === Type.ground
+    ) {
+      x = 1;
+    }
     n *= x;
   }
   // Tera Pokémon take double damage from Stellar attacks
@@ -293,7 +311,7 @@ export function matchupFor({
   // Filter reduces all super effective damage by 25%
   //
   // https://bulbapedia.bulbagarden.net/wiki/Filter_(Ability)
-  if (abilityName === "filter") {
+  if (abilityName === "filter" || abilityName === "big_news") {
     if (n > 1) {
       n *= 0.75;
     }

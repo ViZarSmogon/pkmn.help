@@ -104,6 +104,15 @@
       "lightning_rod": "Lightning Rod",
       "motor_drive": "Motor Drive",
       "volt_absorb": "Volt Absorb",
+	  "big_news": "Big News",
+	  "bug_eater": "Bug Eater",
+	  "floof_shield": "Floof Shield",
+	  "furnace": "Furnace",
+	  "grounding": "Grounding",
+	  "molten_steel": "Molten Steel",
+	  "sand_shield": "Sand Shield",
+	  "stone_eater": "Stone Eater",
+	  "vibration": "Vibration"
     },
     "mode": {
       "heading": "Choose mode",

@@ -83,6 +83,9 @@ export function ScreenOffense(): ReactNode {
       name: t(`defense.abilityNames.tinted_lens`),
     },
     { id: "scrappy", name: t(`defense.abilityNames.scrappy`) },
+	{ id: "bug_eater", name: t(`defense.abilityNames.bug_eater`) },
+	{ id: "grounding", name: t(`defense.abilityNames.grounding`) },
+	{ id: "vibration", name: t(`defense.abilityNames.vibration`) },
   ] as const;
   abilitiesOptions.sort((a, b) => {
     return compare(a.name, b.name);
