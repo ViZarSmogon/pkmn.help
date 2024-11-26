@@ -105,13 +105,7 @@
       "motor_drive": "Motor Drive",
       "volt_absorb": "Volt Absorb",
 	  "water_compaction": "Water Compaction",
-	  "exoskeleton": "Exoskeleton",
-	  "immunity": "Immunity",
-	  "steelworker": "Steelworker",
-      "rocky_payload": "Rocky Payload",
-	  "illuminate": "Illuminate",
-	  "limber": "Limber",
-	  "insomnia": "Insomnia"
+	  "exoskeleton": "Exoskeleton"
     },
     "mode": {
       "heading": "Choose mode",

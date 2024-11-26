@@ -72,12 +72,6 @@ defense.abilityNames.motor_drive,Motor Drive,Motorisé
 defense.abilityNames.volt_absorb,Volt Absorb,Absorbe-Volt
 defense.abilityNames.water_compaction,Water Compaction,
 defense.abilityNames.exoskeleton,Exoskeleton,
-defense.abilityNames.immunity,Immunity,
-defense.abilityNames.steelworker,Steelworker,
-defense.abilityNames.rocky_payload,Rocky Payload,
-defense.abilityNames.illuminate,Illuminate,
-defense.abilityNames.limber,Limber,
-defense.abilityNames.insomnia,Insomnia,
 defense.mode.heading,Choose mode,Sélection du mode
 defense.mode.solo,Solo,Pokémon
 defense.mode.team,Team,Équipe

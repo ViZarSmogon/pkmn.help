@@ -87,49 +87,6 @@ export const abilities = {
 	{ type: Type.grass, value: 0.5 },
     { type: Type.ground, value: 0.5 }
   ),
-  immunity: createAbility(
-    { type: Type.bug, value: 0.5 },
-	{ type: Type.fairy, value: 0.5 },
-    { type: Type.fighting, value: 0.5 },
-	{ type: Type.grass, value: 0.5 },
-    { type: Type.poison, value: 0.5 },
-	{ type: Type.water, value: 0.5 }
-  ),
-  illuminate: createAbility(
-    { type: Type.bug, value: 0.5 },
-	{ type: Type.dark, value: 0.5 },
-	{ type: Type.dragon, value: 0 },
-	{ type: Type.fighting, value: 0.5 }
-  ),
-  steelworker: createAbility(
-    { type: Type.dragon, value: 0.5 },
-	{ type: Type.fairy, value: 0.5 },
-    { type: Type.flying, value: 0.5 },
-	{ type: Type.grass, value: 0.5 },
-    { type: Type.ice, value: 0.5 },
-	{ type: Type.normal, value: 0.5 },
-	{ type: Type.poison, value: 0 },
-    { type: Type.psychic, value: 0.5 },
-	{ type: Type.rock, value: 0.5 },
-    { type: Type.steel, value: 0.5 }
-  ),
-  rocky_payload: createAbility(
-    { type: Type.fire, value: 0.5 },
-    { type: Type.flying, value: 0.5 },
-	{ type: Type.normal, value: 0.5 },
-    { type: Type.poison, value: 0.5 }
-  ),
-  limber: createAbility(
-    { type: Type.electric, value: 0.5 },
-    { type: Type.flying, value: 0.5 },
-	{ type: Type.steel, value: 0.5 }
-  ),
-  insomnia: createAbility(
-    { type: Type.bug, value: 0.5 },
-    { type: Type.normal, value: 0 },
-	{ type: Type.fighting, value: 0 },
-	{ type: Type.poison, value: 0.5 }
-  ),
   storm_drain: createAbility({ type: Type.water, value: 0 }),
   water_absorb: createAbility({ type: Type.water, value: 0 }),
   water_compaction: createAbility({ type: Type.water, value: 0 }),

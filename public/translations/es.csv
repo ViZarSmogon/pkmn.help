@@ -72,12 +72,6 @@ defense.abilityNames.motor_drive,Motor Drive,Electromotor
 defense.abilityNames.volt_absorb,Volt Absorb,Absorbe electricidad
 defense.abilityNames.water_compaction,Water Compaction,
 defense.abilityNames.exoskeleton,Exoskeleton,
-defense.abilityNames.immunity,Immunity,
-defense.abilityNames.steelworker,Steelworker,
-defense.abilityNames.rocky_payload,Rocky Payload,
-defense.abilityNames.illuminate,Illuminate,
-defense.abilityNames.limber,Limber,
-defense.abilityNames.insomnia,Insomnia,
 defense.mode.heading,Choose mode,Elige un modo
 defense.mode.solo,Solo,Solo
 defense.mode.team,Team,Equipo

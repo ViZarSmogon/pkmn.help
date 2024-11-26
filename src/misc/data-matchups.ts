@@ -267,7 +267,7 @@ export function matchupFor({
       offenseType === Type.ground
     ) {
       x = 1;
-    }
+	}
     n *= x;
   }
   // Tera Pokémon take double damage from Stellar attacks
