@@ -64,14 +64,12 @@ defense.abilityNames.levitate,Levitate,ふゆう
 defense.abilityNames.flash_fire,Flash Fire,もらいび
 defense.abilityNames.well_baked_body,Well-Baked Body,こんがりボディ
 defense.abilityNames.dry_skin,Dry Skin,かんそうはだ
-defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,よびみず
 defense.abilityNames.water_absorb,Water Absorb,ちょすい
 defense.abilityNames.sap_sipper,Sap Sipper,そうしょく
 defense.abilityNames.lightning_rod,Lightning Rod,ひらいしん
 defense.abilityNames.motor_drive,Motor Drive,でんきエンジン
 defense.abilityNames.volt_absorb,Volt Absorb,ちくでん
-defense.abilityNames.water_compaction,Water Compaction,
 defense.mode.heading,Choose mode,
 defense.mode.solo,Solo,
 defense.mode.team,Team,
