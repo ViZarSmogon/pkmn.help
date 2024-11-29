@@ -79,7 +79,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wooper-paldean.png",
       "form": "Paldean Wooper",
       "types": [
-          "dark",
+          "poison",
           "ground"
       ],
       "total": 210,
@@ -196,7 +196,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/skeledirge.png",
       "types": [
           "fire",
-          "psychic"
+          "ghost"
       ],
       "total": 530,
       "hp": 104,
@@ -822,7 +822,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ceruledge.png",
       "types": [
           "fire",
-          "psychic"
+          "ghost"
       ],
       "total": 525,
       "hp": 75,
@@ -957,7 +957,7 @@
       "number": 944,
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/shroodle.png",
       "types": [
-          "dark",
+          "poison",
           "normal"
       ],
       "total": 290,
@@ -977,7 +977,7 @@
       "number": 945,
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/grafaiai.png",
       "types": [
-          "dark",
+          "poison",
           "normal"
       ],
       "total": 485,
@@ -998,7 +998,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/bramblin.png",
       "types": [
           "grass",
-          "psychic"
+          "ghost"
       ],
       "total": 275,
       "hp": 40,
@@ -1018,7 +1018,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/brambleghast.png",
       "types": [
           "grass",
-          "psychic"
+          "ghost"
       ],
       "total": 480,
       "hp": 55,
@@ -1394,7 +1394,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/varoom.png",
       "types": [
           "steel",
-          "dark"
+          "poison"
       ],
       "total": 300,
       "hp": 45,
@@ -1414,7 +1414,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/revavroom.png",
       "types": [
           "steel",
-          "dark"
+          "poison"
       ],
       "total": 500,
       "hp": 80,
@@ -1473,7 +1473,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/glimmet.png",
       "types": [
           "rock",
-          "dark"
+          "poison"
       ],
       "total": 350,
       "hp": 48,
@@ -1493,7 +1493,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/glimmora.png",
       "types": [
           "rock",
-          "dark"
+          "poison"
       ],
       "total": 525,
       "hp": 83,
@@ -1512,7 +1512,7 @@
       "number": 971,
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/greavard.png",
       "types": [
-          "psychic"
+          "ghost"
       ],
       "total": 290,
       "hp": 50,
@@ -1531,7 +1531,7 @@
       "number": 972,
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/houndstone.png",
       "types": [
-          "psychic"
+          "ghost"
       ],
       "total": 488,
       "hp": 72,
@@ -1717,7 +1717,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/annihilape.png",
       "types": [
           "fighting",
-          "psychic"
+          "ghost"
       ],
       "total": 535,
       "hp": 110,
@@ -1736,7 +1736,7 @@
       "number": 980,
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/clodsire.png",
       "types": [
-          "dark",
+          "poison",
           "ground"
       ],
       "total": 430,
@@ -1900,7 +1900,7 @@
       "number": 987,
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/flutter-mane.png",
       "types": [
-          "psychic",
+          "ghost",
           "fairy"
       ],
       "total": 570,
@@ -2041,7 +2041,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-moth.png",
       "types": [
           "fire",
-          "dark"
+          "poison"
       ],
       "total": 570,
       "hp": 80,
@@ -2143,7 +2143,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gimmighoul-chest.png",
       "form": "Chest Form",
       "types": [
-          "psychic"
+          "ghost"
       ],
       "total": 300,
       "hp": 45,
@@ -2165,7 +2165,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gimmighoul-roaming.png",
       "form": "Roaming Form",
       "types": [
-          "psychic"
+          "ghost"
       ],
       "total": 300,
       "hp": 45,
@@ -2185,7 +2185,7 @@
       "spriteURL": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gholdengo.png",
       "types": [
           "steel",
-          "psychic"
+          "ghost"
       ],
       "total": 550,
       "hp": 87,

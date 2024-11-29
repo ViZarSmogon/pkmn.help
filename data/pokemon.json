@@ -28,7 +28,7 @@
     "id": "1",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -60,7 +60,7 @@
     "id": "2",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -92,7 +92,7 @@
     "id": "3",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -135,7 +135,7 @@
     "id": "10033",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -171,7 +171,7 @@
     "id": "10195",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -719,7 +719,7 @@
     "id": "13",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -751,7 +751,7 @@
     "id": "14",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -783,7 +783,7 @@
     "id": "15",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -826,7 +826,7 @@
     "id": "10090",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -1242,7 +1242,7 @@
     "speed": 55,
     "id": "23",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -1273,7 +1273,7 @@
     "speed": 80,
     "id": "24",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -2171,7 +2171,7 @@
     "speed": 41,
     "id": "29",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -2202,7 +2202,7 @@
     "speed": 56,
     "id": "30",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -2233,7 +2233,7 @@
     "speed": 76,
     "id": "31",
     "types": [
-      "dark",
+      "poison",
       "ground"
     ]
   },
@@ -2265,7 +2265,7 @@
     "speed": 50,
     "id": "32",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -2296,7 +2296,7 @@
     "speed": 65,
     "id": "33",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -2327,7 +2327,7 @@
     "speed": 85,
     "id": "34",
     "types": [
-      "dark",
+      "poison",
       "ground"
     ]
   },
@@ -2632,7 +2632,7 @@
     "speed": 55,
     "id": "41",
     "types": [
-      "dark",
+      "poison",
       "flying"
     ]
   },
@@ -2664,7 +2664,7 @@
     "speed": 90,
     "id": "42",
     "types": [
-      "dark",
+      "poison",
       "flying"
     ]
   },
@@ -2697,7 +2697,7 @@
     "id": "43",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -2729,7 +2729,7 @@
     "id": "44",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -2761,7 +2761,7 @@
     "id": "45",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -2857,7 +2857,7 @@
     "id": "48",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -2889,7 +2889,7 @@
     "id": "49",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -3911,7 +3911,7 @@
     "id": "69",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -3943,7 +3943,7 @@
     "id": "70",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -3975,7 +3975,7 @@
     "id": "71",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -4007,7 +4007,7 @@
     "id": "72",
     "types": [
       "water",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -4039,7 +4039,7 @@
     "id": "73",
     "types": [
       "water",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -4602,7 +4602,7 @@
     "speed": 30,
     "id": "10165",
     "types": [
-      "dark",
+      "poison",
       "psychic"
     ]
   },
@@ -4899,7 +4899,7 @@
     "speed": 25,
     "id": "88",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -4941,6 +4941,7 @@
     "speed": 25,
     "id": "10112",
     "types": [
+      "poison",
       "dark"
     ]
   },
@@ -4972,7 +4973,7 @@
     "speed": 50,
     "id": "89",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -5014,6 +5015,7 @@
     "speed": 50,
     "id": "10113",
     "types": [
+      "poison",
       "dark"
     ]
   },
@@ -5108,15 +5110,15 @@
     "speed": 80,
     "id": "92",
     "types": [
-      "psychic",
-      "dark"
+      "ghost",
+      "poison"
     ]
   },
   {
     "name": "haunter",
     "speciesNames": {
       "ja-Hrkt": "ゴースト",
-      "roomaji": "psychic",
+      "roomaji": "Ghost",
       "ko": "고우스트",
       "zh-Hant": "鬼斯通",
       "fr": "Spectrum",
@@ -5140,8 +5142,8 @@
     "speed": 95,
     "id": "93",
     "types": [
-      "psychic",
-      "dark"
+      "ghost",
+      "poison"
     ]
   },
   {
@@ -5172,8 +5174,8 @@
     "speed": 110,
     "id": "94",
     "types": [
-      "psychic",
-      "dark"
+      "ghost",
+      "poison"
     ]
   },
   {
@@ -5215,8 +5217,8 @@
     "speed": 130,
     "id": "10038",
     "types": [
-      "psychic",
-      "dark"
+      "ghost",
+      "poison"
     ]
   },
   {
@@ -5251,8 +5253,8 @@
     "speed": 110,
     "id": "10202",
     "types": [
-      "psychic",
-      "dark"
+      "ghost",
+      "poison"
     ]
   },
   {
@@ -5793,7 +5795,7 @@
     "id": "10115",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -5828,7 +5830,7 @@
     "id": "10149",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -5952,7 +5954,7 @@
     "speed": 35,
     "id": "109",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -5983,7 +5985,7 @@
     "speed": 60,
     "id": "110",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -6025,7 +6027,7 @@
     "speed": 60,
     "id": "10167",
     "types": [
-      "dark",
+      "poison",
       "fairy"
     ]
   },
@@ -8215,7 +8217,7 @@
     "id": "10233",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -8530,7 +8532,7 @@
     "id": "167",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -8562,7 +8564,7 @@
     "id": "168",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -8593,7 +8595,7 @@
     "speed": 130,
     "id": "169",
     "types": [
-      "dark",
+      "poison",
       "flying"
     ]
   },
@@ -9461,7 +9463,7 @@
     "speed": 15,
     "id": "10253",
     "types": [
-      "dark",
+      "poison",
       "ground"
     ]
   },
@@ -9662,7 +9664,7 @@
     "speed": 30,
     "id": "10172",
     "types": [
-      "dark",
+      "poison",
       "psychic"
     ]
   },
@@ -9694,7 +9696,7 @@
     "speed": 85,
     "id": "200",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -10091,7 +10093,7 @@
     "id": "211",
     "types": [
       "water",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -10128,7 +10130,8 @@
     "speed": 85,
     "id": "10234",
     "types": [
-      "dark"
+      "dark",
+      "poison"
     ]
   },
   {
@@ -10380,7 +10383,7 @@
     "id": "10235",
     "types": [
       "fighting",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -10643,7 +10646,7 @@
     "speed": 30,
     "id": "10173",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -12420,7 +12423,7 @@
     "id": "269",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -13194,7 +13197,7 @@
     "id": "292",
     "types": [
       "bug",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -13506,7 +13509,7 @@
     "id": "302",
     "types": [
       "dark",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -13549,7 +13552,7 @@
     "id": "10066",
     "types": [
       "dark",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -14129,7 +14132,7 @@
     "id": "315",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -14160,7 +14163,7 @@
     "speed": 40,
     "id": "316",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -14191,7 +14194,7 @@
     "speed": 55,
     "id": "317",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -14918,7 +14921,7 @@
     "speed": 65,
     "id": "336",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -15593,7 +15596,7 @@
     "speed": 45,
     "id": "353",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -15624,7 +15627,7 @@
     "speed": 65,
     "id": "354",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -15666,7 +15669,7 @@
     "speed": 75,
     "id": "10056",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -15697,7 +15700,7 @@
     "speed": 25,
     "id": "355",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -15728,7 +15731,7 @@
     "speed": 25,
     "id": "356",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -17841,7 +17844,7 @@
     "id": "406",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -17873,7 +17876,7 @@
     "id": "407",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -18576,7 +18579,7 @@
     "speed": 70,
     "id": "425",
     "types": [
-      "psychic",
+      "ghost",
       "flying"
     ]
   },
@@ -18608,7 +18611,7 @@
     "speed": 80,
     "id": "426",
     "types": [
-      "psychic",
+      "ghost",
       "flying"
     ]
   },
@@ -18745,7 +18748,7 @@
     "speed": 105,
     "id": "429",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -18901,6 +18904,7 @@
     "speed": 74,
     "id": "434",
     "types": [
+      "poison",
       "dark"
     ]
   },
@@ -18932,6 +18936,7 @@
     "speed": 84,
     "id": "435",
     "types": [
+      "poison",
       "dark"
     ]
   },
@@ -19153,7 +19158,7 @@
     "speed": 35,
     "id": "442",
     "types": [
-      "psychic",
+      "ghost",
       "dark"
     ]
   },
@@ -19523,7 +19528,7 @@
     "speed": 65,
     "id": "451",
     "types": [
-      "dark",
+      "poison",
       "bug"
     ]
   },
@@ -19555,6 +19560,7 @@
     "speed": 95,
     "id": "452",
     "types": [
+      "poison",
       "dark"
     ]
   },
@@ -19586,7 +19592,7 @@
     "speed": 50,
     "id": "453",
     "types": [
-      "dark",
+      "poison",
       "fighting"
     ]
   },
@@ -19618,7 +19624,7 @@
     "speed": 85,
     "id": "454",
     "types": [
-      "dark",
+      "poison",
       "fighting"
     ]
   },
@@ -20430,7 +20436,7 @@
     "speed": 45,
     "id": "477",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -20462,7 +20468,7 @@
     "id": "478",
     "types": [
       "ice",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -20505,7 +20511,7 @@
     "id": "479",
     "types": [
       "electric",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -21058,7 +21064,7 @@
     "speed": 90,
     "id": "487",
     "types": [
-      "psychic",
+      "ghost",
       "dragon"
     ]
   },
@@ -21101,7 +21107,7 @@
     "speed": 90,
     "id": "10007",
     "types": [
-      "psychic",
+      "ghost",
       "dragon"
     ]
   },
@@ -22995,7 +23001,7 @@
     "id": "543",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -23027,7 +23033,7 @@
     "id": "544",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -23059,7 +23065,7 @@
     "id": "545",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -23905,7 +23911,7 @@
     "speed": 30,
     "id": "562",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -23948,7 +23954,7 @@
     "id": "10179",
     "types": [
       "ground",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -23979,7 +23985,7 @@
     "speed": 30,
     "id": "563",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -24138,7 +24144,7 @@
     "speed": 65,
     "id": "568",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -24169,7 +24175,7 @@
     "speed": 75,
     "id": "569",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -24204,7 +24210,7 @@
     "speed": 75,
     "id": "10207",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -24273,7 +24279,7 @@
     "id": "10238",
     "types": [
       "normal",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -24342,7 +24348,7 @@
     "id": "10239",
     "types": [
       "normal",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -24954,7 +24960,7 @@
     "id": "590",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -24986,7 +24992,7 @@
     "id": "591",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -25018,7 +25024,7 @@
     "id": "592",
     "types": [
       "water",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -25050,7 +25056,7 @@
     "id": "593",
     "types": [
       "water",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -25488,7 +25494,7 @@
     "speed": 20,
     "id": "607",
     "types": [
-      "psychic",
+      "ghost",
       "fire"
     ]
   },
@@ -25520,7 +25526,7 @@
     "speed": 55,
     "id": "608",
     "types": [
-      "psychic",
+      "ghost",
       "fire"
     ]
   },
@@ -25552,7 +25558,7 @@
     "speed": 80,
     "id": "609",
     "types": [
-      "psychic",
+      "ghost",
       "fire"
     ]
   },
@@ -26001,7 +26007,7 @@
     "id": "622",
     "types": [
       "ground",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -26033,7 +26039,7 @@
     "id": "623",
     "types": [
       "ground",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -28417,7 +28423,7 @@
     "id": "679",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -28449,7 +28455,7 @@
     "id": "680",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -28492,7 +28498,7 @@
     "id": "681",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -28535,7 +28541,7 @@
     "id": "10026",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -28818,7 +28824,7 @@
     "speed": 30,
     "id": "690",
     "types": [
-      "dark",
+      "poison",
       "water"
     ]
   },
@@ -28850,7 +28856,7 @@
     "speed": 44,
     "id": "691",
     "types": [
-      "dark",
+      "poison",
       "dragon"
     ]
   },
@@ -29464,7 +29470,7 @@
     "speed": 38,
     "id": "708",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -29496,7 +29502,7 @@
     "speed": 56,
     "id": "709",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -29539,7 +29545,7 @@
     "speed": 51,
     "id": "710",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -29582,7 +29588,7 @@
     "speed": 56,
     "id": "10027",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -29625,7 +29631,7 @@
     "speed": 46,
     "id": "10028",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -29668,7 +29674,7 @@
     "speed": 41,
     "id": "10029",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -29711,7 +29717,7 @@
     "speed": 84,
     "id": "711",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -29754,7 +29760,7 @@
     "speed": 99,
     "id": "10030",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -29797,7 +29803,7 @@
     "speed": 69,
     "id": "10031",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -29840,7 +29846,7 @@
     "speed": 54,
     "id": "10032",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -30412,6 +30418,7 @@
     "id": "720",
     "types": [
       "psychic",
+      "ghost"
     ]
   },
   {
@@ -30582,7 +30589,7 @@
     "id": "724",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -31362,7 +31369,7 @@
     "speed": 93,
     "id": "10125",
     "types": [
-      "psychic",
+      "ghost",
       "flying"
     ]
   },
@@ -31766,7 +31773,7 @@
     "speed": 45,
     "id": "747",
     "types": [
-      "dark",
+      "poison",
       "water"
     ]
   },
@@ -31798,7 +31805,7 @@
     "speed": 35,
     "id": "748",
     "types": [
-      "dark",
+      "poison",
       "water"
     ]
   },
@@ -32149,7 +32156,7 @@
     "speed": 77,
     "id": "757",
     "types": [
-      "dark",
+      "poison",
       "fire"
     ]
   },
@@ -32181,7 +32188,7 @@
     "speed": 117,
     "id": "758",
     "types": [
-      "dark",
+      "poison",
       "fire"
     ]
   },
@@ -32215,7 +32222,7 @@
     "speed": 117,
     "id": "10129",
     "types": [
-      "dark",
+      "poison",
       "fire"
     ]
   },
@@ -32562,7 +32569,7 @@
     "speed": 15,
     "id": "769",
     "types": [
-      "psychic",
+      "ghost",
       "ground"
     ]
   },
@@ -32594,7 +32601,7 @@
     "speed": 35,
     "id": "770",
     "types": [
-      "psychic",
+      "ghost",
       "ground"
     ]
   },
@@ -33472,7 +33479,7 @@
     "speed": 96,
     "id": "778",
     "types": [
-      "psychic",
+      "ghost",
       "fairy"
     ]
   },
@@ -33515,7 +33522,7 @@
     "speed": 96,
     "id": "10143",
     "types": [
-      "psychic",
+      "ghost",
       "fairy"
     ]
   },
@@ -33549,7 +33556,7 @@
     "speed": 96,
     "id": "10144",
     "types": [
-      "psychic",
+      "ghost",
       "fairy"
     ]
   },
@@ -33583,7 +33590,7 @@
     "speed": 96,
     "id": "10145",
     "types": [
-      "psychic",
+      "ghost",
       "fairy"
     ]
   },
@@ -33679,7 +33686,7 @@
     "speed": 40,
     "id": "781",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ]
   },
@@ -34063,6 +34070,7 @@
     "id": "792",
     "types": [
       "psychic",
+      "ghost"
     ]
   },
   {
@@ -34094,7 +34102,7 @@
     "id": "793",
     "types": [
       "rock",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -34402,6 +34410,7 @@
     "id": "10156",
     "types": [
       "psychic",
+      "ghost"
     ]
   },
   {
@@ -34551,7 +34560,7 @@
     "id": "802",
     "types": [
       "fighting",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -34582,7 +34591,7 @@
     "speed": 73,
     "id": "803",
     "types": [
-      "dark"
+      "poison"
     ]
   },
   {
@@ -34613,7 +34622,7 @@
     "speed": 121,
     "id": "804",
     "types": [
-      "dark",
+      "poison",
       "dragon"
     ]
   },
@@ -34678,7 +34687,7 @@
     "id": "806",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -36468,7 +36477,7 @@
     "id": "848",
     "types": [
       "electric",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -36511,7 +36520,7 @@
     "id": "849",
     "types": [
       "electric",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -36554,7 +36563,7 @@
     "id": "10184",
     "types": [
       "electric",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -36590,7 +36599,7 @@
     "id": "10219",
     "types": [
       "electric",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -36626,7 +36635,7 @@
     "id": "10228",
     "types": [
       "electric",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -36825,7 +36834,7 @@
     "speed": 50,
     "id": "854",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -36861,7 +36870,7 @@
     "speed": 70,
     "id": "855",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -37217,7 +37226,7 @@
     "speed": 30,
     "id": "864",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -37312,7 +37321,7 @@
     "id": "867",
     "types": [
       "ground",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -38158,7 +38167,7 @@
     "id": "885",
     "types": [
       "dragon",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -38190,7 +38199,7 @@
     "id": "886",
     "types": [
       "dragon",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -38222,7 +38231,7 @@
     "id": "887",
     "types": [
       "dragon",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -38423,7 +38432,7 @@
     "speed": 130,
     "id": "890",
     "types": [
-      "dark",
+      "poison",
       "dragon"
     ]
   },
@@ -38466,7 +38475,7 @@
     "speed": 130,
     "id": "10190",
     "types": [
-      "dark",
+      "poison",
       "dragon"
     ]
   },
@@ -38855,7 +38864,7 @@
     "speed": 130,
     "id": "897",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -38973,6 +38982,7 @@
     "id": "10194",
     "types": [
       "psychic",
+      "ghost"
     ]
   },
   {
@@ -39148,7 +39158,7 @@
     "id": "902",
     "types": [
       "water",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -39186,7 +39196,7 @@
     "id": "10248",
     "types": [
       "water",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -39218,7 +39228,7 @@
     "id": "903",
     "types": [
       "fighting",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -39249,7 +39259,8 @@
     "speed": 85,
     "id": "904",
     "types": [
-      "dark"
+      "dark",
+      "poison"
     ]
   },
   {
@@ -39512,7 +39523,7 @@
     "id": "911",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -40526,7 +40537,7 @@
     "id": "937",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -40745,7 +40756,7 @@
     "speed": 75,
     "id": "944",
     "types": [
-      "dark",
+      "poison",
       "normal"
     ]
   },
@@ -40777,7 +40788,7 @@
     "speed": 110,
     "id": "945",
     "types": [
-      "dark",
+      "poison",
       "normal"
     ]
   },
@@ -40810,7 +40821,7 @@
     "id": "946",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -40842,7 +40853,7 @@
     "id": "947",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -41450,7 +41461,7 @@
     "id": "965",
     "types": [
       "steel",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -41482,7 +41493,7 @@
     "id": "966",
     "types": [
       "steel",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -41577,7 +41588,7 @@
     "id": "969",
     "types": [
       "rock",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -41609,7 +41620,7 @@
     "id": "970",
     "types": [
       "rock",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -41640,7 +41651,7 @@
     "speed": 34,
     "id": "971",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -41671,7 +41682,7 @@
     "speed": 68,
     "id": "972",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -41971,7 +41982,7 @@
     "id": "979",
     "types": [
       "fighting",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -42002,7 +42013,7 @@
     "speed": 20,
     "id": "980",
     "types": [
-      "dark",
+      "poison",
       "ground"
     ]
   },
@@ -42266,7 +42277,7 @@
     "speed": 135,
     "id": "987",
     "types": [
-      "psychic",
+      "ghost",
       "fairy"
     ]
   },
@@ -42491,7 +42502,7 @@
     "id": "994",
     "types": [
       "fire",
-      "dark"
+      "poison"
     ]
   },
   {
@@ -42655,7 +42666,7 @@
     "speed": 10,
     "id": "999",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -42691,7 +42702,7 @@
     "speed": 80,
     "id": "10263",
     "types": [
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -42723,7 +42734,7 @@
     "id": "1000",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -43419,7 +43430,7 @@
     "id": "1012",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -43461,7 +43472,7 @@
     "id": "1013",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ]
   },
   {
@@ -43491,7 +43502,7 @@
     "speed": 80,
     "id": "1014",
     "types": [
-      "dark",
+      "poison",
       "fighting"
     ]
   },
@@ -43522,7 +43533,7 @@
     "speed": 106,
     "id": "1015",
     "types": [
-      "dark",
+      "poison",
       "psychic"
     ]
   },
@@ -43553,7 +43564,7 @@
     "speed": 99,
     "id": "1016",
     "types": [
-      "dark",
+      "poison",
       "fairy"
     ]
   },
@@ -44048,8 +44059,8 @@
     "speed": 88,
     "id": "1025",
     "types": [
-      "dark",
-      "psychic"
+      "poison",
+      "ghost"
     ]
   }
 ]

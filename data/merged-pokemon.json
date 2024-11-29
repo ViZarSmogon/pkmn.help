@@ -25,7 +25,7 @@
     "id": "1",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -56,7 +56,7 @@
     "id": "2",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -87,7 +87,7 @@
     "id": "3",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -129,7 +129,7 @@
     "id": "10033",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -557,7 +557,7 @@
     "id": "13",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -588,7 +588,7 @@
     "id": "14",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -619,7 +619,7 @@
     "id": "15",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -661,7 +661,7 @@
     "id": "10090",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -1032,7 +1032,7 @@
     "speed": 55,
     "id": "23",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -1062,7 +1062,7 @@
     "speed": 80,
     "id": "24",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -1338,7 +1338,7 @@
     "speed": 41,
     "id": "29",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -1368,7 +1368,7 @@
     "speed": 56,
     "id": "30",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -1398,7 +1398,7 @@
     "speed": 76,
     "id": "31",
     "types": [
-      "dark",
+      "poison",
       "ground"
     ],
     "hasShiny": true,
@@ -1429,7 +1429,7 @@
     "speed": 50,
     "id": "32",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -1459,7 +1459,7 @@
     "speed": 65,
     "id": "33",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -1489,7 +1489,7 @@
     "speed": 85,
     "id": "34",
     "types": [
-      "dark",
+      "poison",
       "ground"
     ],
     "hasShiny": true,
@@ -1785,7 +1785,7 @@
     "speed": 55,
     "id": "41",
     "types": [
-      "dark",
+      "poison",
       "flying"
     ],
     "hasShiny": true,
@@ -1816,7 +1816,7 @@
     "speed": 90,
     "id": "42",
     "types": [
-      "dark",
+      "poison",
       "flying"
     ],
     "hasShiny": true,
@@ -1848,7 +1848,7 @@
     "id": "43",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -1879,7 +1879,7 @@
     "id": "44",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -1910,7 +1910,7 @@
     "id": "45",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -2003,7 +2003,7 @@
     "id": "48",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -2034,7 +2034,7 @@
     "id": "49",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -2958,7 +2958,7 @@
     "id": "69",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -2989,7 +2989,7 @@
     "id": "70",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -3020,7 +3020,7 @@
     "id": "71",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -3051,7 +3051,7 @@
     "id": "72",
     "types": [
       "water",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -3082,7 +3082,7 @@
     "id": "73",
     "types": [
       "water",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -3630,7 +3630,7 @@
     "speed": 30,
     "id": "10165",
     "types": [
-      "dark",
+      "poison",
       "psychic"
     ],
     "hasShiny": true,
@@ -3918,7 +3918,7 @@
     "speed": 25,
     "id": "88",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -3959,6 +3959,7 @@
     "speed": 25,
     "id": "10112",
     "types": [
+      "poison",
       "dark"
     ],
     "hasShiny": true,
@@ -3989,7 +3990,7 @@
     "speed": 50,
     "id": "89",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -4030,6 +4031,7 @@
     "speed": 50,
     "id": "10113",
     "types": [
+      "poison",
       "dark"
     ],
     "hasShiny": true,
@@ -4121,8 +4123,8 @@
     "speed": 80,
     "id": "92",
     "types": [
-      "psychic",
-      "dark"
+      "ghost",
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -4131,7 +4133,7 @@
     "name": "haunter",
     "speciesNames": {
       "ja-Hrkt": "ゴースト",
-      "roomaji": "psychic",
+      "roomaji": "Ghost",
       "ko": "고우스트",
       "zh-Hant": "鬼斯通",
       "fr": "Spectrum",
@@ -4152,8 +4154,8 @@
     "speed": 95,
     "id": "93",
     "types": [
-      "psychic",
-      "dark"
+      "ghost",
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -4183,8 +4185,8 @@
     "speed": 110,
     "id": "94",
     "types": [
-      "psychic",
-      "dark"
+      "ghost",
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -4225,8 +4227,8 @@
     "speed": 130,
     "id": "10038",
     "types": [
-      "psychic",
-      "dark"
+      "ghost",
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -4717,7 +4719,7 @@
     "id": "10115",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -4837,7 +4839,7 @@
     "speed": 35,
     "id": "109",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -4867,7 +4869,7 @@
     "speed": 60,
     "id": "110",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -4908,7 +4910,7 @@
     "speed": 60,
     "id": "10167",
     "types": [
-      "dark",
+      "poison",
       "fairy"
     ],
     "hasShiny": true,
@@ -6898,7 +6900,7 @@
     "id": "10233",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -7203,7 +7205,7 @@
     "id": "167",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -7234,7 +7236,7 @@
     "id": "168",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -7264,7 +7266,7 @@
     "speed": 130,
     "id": "169",
     "types": [
-      "dark",
+      "poison",
       "flying"
     ],
     "hasShiny": true,
@@ -8105,7 +8107,7 @@
     "speed": 15,
     "id": "10253",
     "types": [
-      "dark",
+      "poison",
       "ground"
     ],
     "hasShiny": true,
@@ -8300,7 +8302,7 @@
     "speed": 30,
     "id": "10172",
     "types": [
-      "dark",
+      "poison",
       "psychic"
     ],
     "hasShiny": true,
@@ -8331,7 +8333,7 @@
     "speed": 85,
     "id": "200",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -8716,7 +8718,7 @@
     "id": "211",
     "types": [
       "water",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -8752,7 +8754,8 @@
     "speed": 85,
     "id": "10234",
     "types": [
-      "dark"
+      "dark",
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -8997,7 +9000,7 @@
     "id": "10235",
     "types": [
       "fighting",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -9252,7 +9255,7 @@
     "speed": 30,
     "id": "10173",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -10975,7 +10978,7 @@
     "id": "269",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -11725,7 +11728,7 @@
     "id": "292",
     "types": [
       "bug",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -12027,7 +12030,7 @@
     "id": "302",
     "types": [
       "dark",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -12069,7 +12072,7 @@
     "id": "10066",
     "types": [
       "dark",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -12632,7 +12635,7 @@
     "id": "315",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -12662,7 +12665,7 @@
     "speed": 40,
     "id": "316",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -12692,7 +12695,7 @@
     "speed": 55,
     "id": "317",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -13397,7 +13400,7 @@
     "speed": 65,
     "id": "336",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -14052,7 +14055,7 @@
     "speed": 45,
     "id": "353",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -14082,7 +14085,7 @@
     "speed": 65,
     "id": "354",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -14123,7 +14126,7 @@
     "speed": 75,
     "id": "10056",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -14153,7 +14156,7 @@
     "speed": 25,
     "id": "355",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -14183,7 +14186,7 @@
     "speed": 25,
     "id": "356",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -16234,7 +16237,7 @@
     "id": "406",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -16265,7 +16268,7 @@
     "id": "407",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -16948,7 +16951,7 @@
     "speed": 70,
     "id": "425",
     "types": [
-      "psychic",
+      "ghost",
       "flying"
     ],
     "hasShiny": true,
@@ -16979,7 +16982,7 @@
     "speed": 80,
     "id": "426",
     "types": [
-      "psychic",
+      "ghost",
       "flying"
     ],
     "hasShiny": true,
@@ -17112,7 +17115,7 @@
     "speed": 105,
     "id": "429",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -17263,6 +17266,7 @@
     "speed": 74,
     "id": "434",
     "types": [
+      "poison",
       "dark"
     ],
     "hasShiny": true,
@@ -17293,6 +17297,7 @@
     "speed": 84,
     "id": "435",
     "types": [
+      "poison",
       "dark"
     ],
     "hasShiny": true,
@@ -17507,7 +17512,7 @@
     "speed": 35,
     "id": "442",
     "types": [
-      "psychic",
+      "ghost",
       "dark"
     ],
     "hasShiny": true,
@@ -17866,7 +17871,7 @@
     "speed": 65,
     "id": "451",
     "types": [
-      "dark",
+      "poison",
       "bug"
     ],
     "hasShiny": true,
@@ -17897,6 +17902,7 @@
     "speed": 95,
     "id": "452",
     "types": [
+      "poison",
       "dark"
     ],
     "hasShiny": true,
@@ -17927,7 +17933,7 @@
     "speed": 50,
     "id": "453",
     "types": [
-      "dark",
+      "poison",
       "fighting"
     ],
     "hasShiny": true,
@@ -17958,7 +17964,7 @@
     "speed": 85,
     "id": "454",
     "types": [
-      "dark",
+      "poison",
       "fighting"
     ],
     "hasShiny": true,
@@ -18745,7 +18751,7 @@
     "speed": 45,
     "id": "477",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -18776,7 +18782,7 @@
     "id": "478",
     "types": [
       "ice",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -18818,7 +18824,7 @@
     "id": "479",
     "types": [
       "electric",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -19356,7 +19362,7 @@
     "speed": 90,
     "id": "487",
     "types": [
-      "psychic",
+      "ghost",
       "dragon"
     ],
     "hasShiny": true,
@@ -19398,7 +19404,7 @@
     "speed": 90,
     "id": "10007",
     "types": [
-      "psychic",
+      "ghost",
       "dragon"
     ],
     "hasShiny": true,
@@ -21233,7 +21239,7 @@
     "id": "543",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -21264,7 +21270,7 @@
     "id": "544",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -21295,7 +21301,7 @@
     "id": "545",
     "types": [
       "bug",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -22040,7 +22046,7 @@
     "speed": 30,
     "id": "562",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -22082,7 +22088,7 @@
     "id": "10179",
     "types": [
       "ground",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -22112,7 +22118,7 @@
     "speed": 30,
     "id": "563",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -22266,7 +22272,7 @@
     "speed": 65,
     "id": "568",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -22296,7 +22302,7 @@
     "speed": 75,
     "id": "569",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -22363,7 +22369,7 @@
     "id": "10238",
     "types": [
       "normal",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -22430,7 +22436,7 @@
     "id": "10239",
     "types": [
       "normal",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -23023,7 +23029,7 @@
     "id": "590",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -23054,7 +23060,7 @@
     "id": "591",
     "types": [
       "grass",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -23085,7 +23091,7 @@
     "id": "592",
     "types": [
       "water",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -23116,7 +23122,7 @@
     "id": "593",
     "types": [
       "water",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -23540,7 +23546,7 @@
     "speed": 20,
     "id": "607",
     "types": [
-      "psychic",
+      "ghost",
       "fire"
     ],
     "hasShiny": true,
@@ -23571,7 +23577,7 @@
     "speed": 55,
     "id": "608",
     "types": [
-      "psychic",
+      "ghost",
       "fire"
     ],
     "hasShiny": true,
@@ -23602,7 +23608,7 @@
     "speed": 80,
     "id": "609",
     "types": [
-      "psychic",
+      "ghost",
       "fire"
     ],
     "hasShiny": true,
@@ -24037,7 +24043,7 @@
     "id": "622",
     "types": [
       "ground",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -24068,7 +24074,7 @@
     "id": "623",
     "types": [
       "ground",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -26267,7 +26273,7 @@
     "id": "679",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -26298,7 +26304,7 @@
     "id": "680",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -26340,7 +26346,7 @@
     "id": "681",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -26382,7 +26388,7 @@
     "id": "10026",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -26656,7 +26662,7 @@
     "speed": 30,
     "id": "690",
     "types": [
-      "dark",
+      "poison",
       "water"
     ],
     "hasShiny": true,
@@ -26687,7 +26693,7 @@
     "speed": 44,
     "id": "691",
     "types": [
-      "dark",
+      "poison",
       "dragon"
     ],
     "hasShiny": true,
@@ -27282,7 +27288,7 @@
     "speed": 38,
     "id": "708",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -27313,7 +27319,7 @@
     "speed": 56,
     "id": "709",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -27355,7 +27361,7 @@
     "speed": 51,
     "id": "710",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -27397,7 +27403,7 @@
     "speed": 56,
     "id": "10027",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -27439,7 +27445,7 @@
     "speed": 46,
     "id": "10028",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -27481,7 +27487,7 @@
     "speed": 41,
     "id": "10029",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -27523,7 +27529,7 @@
     "speed": 84,
     "id": "711",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -27565,7 +27571,7 @@
     "speed": 99,
     "id": "10030",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -27607,7 +27613,7 @@
     "speed": 69,
     "id": "10031",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -27649,7 +27655,7 @@
     "speed": 54,
     "id": "10032",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -28122,6 +28128,7 @@
     "id": "720",
     "types": [
       "psychic",
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -28287,7 +28294,7 @@
     "id": "724",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -28979,7 +28986,7 @@
     "speed": 93,
     "id": "10125",
     "types": [
-      "psychic",
+      "ghost",
       "flying"
     ],
     "hasShiny": true,
@@ -29307,7 +29314,7 @@
     "speed": 45,
     "id": "747",
     "types": [
-      "dark",
+      "poison",
       "water"
     ],
     "hasShiny": true,
@@ -29338,7 +29345,7 @@
     "speed": 35,
     "id": "748",
     "types": [
-      "dark",
+      "poison",
       "water"
     ],
     "hasShiny": true,
@@ -29613,7 +29620,7 @@
     "speed": 77,
     "id": "757",
     "types": [
-      "dark",
+      "poison",
       "fire"
     ],
     "hasShiny": true,
@@ -29644,7 +29651,7 @@
     "speed": 117,
     "id": "758",
     "types": [
-      "dark",
+      "poison",
       "fire"
     ],
     "hasShiny": true,
@@ -29980,7 +29987,7 @@
     "speed": 15,
     "id": "769",
     "types": [
-      "psychic",
+      "ghost",
       "ground"
     ],
     "hasShiny": true,
@@ -30011,7 +30018,7 @@
     "speed": 35,
     "id": "770",
     "types": [
-      "psychic",
+      "ghost",
       "ground"
     ],
     "hasShiny": true,
@@ -30330,7 +30337,7 @@
     "speed": 96,
     "id": "778",
     "types": [
-      "psychic",
+      "ghost",
       "fairy"
     ],
     "hasShiny": true,
@@ -30423,7 +30430,7 @@
     "speed": 40,
     "id": "781",
     "types": [
-      "psychic",
+      "ghost",
       "grass"
     ],
     "hasShiny": true,
@@ -30762,6 +30769,7 @@
     "id": "792",
     "types": [
       "psychic",
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -30792,7 +30800,7 @@
     "id": "793",
     "types": [
       "rock",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -31091,6 +31099,7 @@
     "id": "10156",
     "types": [
       "psychic",
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -31194,7 +31203,7 @@
     "id": "802",
     "types": [
       "fighting",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -31224,7 +31233,7 @@
     "speed": 73,
     "id": "803",
     "types": [
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -31254,7 +31263,7 @@
     "speed": 121,
     "id": "804",
     "types": [
-      "dark",
+      "poison",
       "dragon"
     ],
     "hasShiny": true,
@@ -31317,7 +31326,7 @@
     "id": "806",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -32588,7 +32597,7 @@
     "id": "848",
     "types": [
       "electric",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -32630,7 +32639,7 @@
     "id": "849",
     "types": [
       "electric",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -32788,7 +32797,7 @@
     "speed": 50,
     "id": "854",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -32823,7 +32832,7 @@
     "speed": 70,
     "id": "855",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -33098,7 +33107,7 @@
     "speed": 30,
     "id": "864",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -33190,7 +33199,7 @@
     "id": "867",
     "types": [
       "ground",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -33867,7 +33876,7 @@
     "id": "885",
     "types": [
       "dragon",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -33898,7 +33907,7 @@
     "id": "886",
     "types": [
       "dragon",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -33929,7 +33938,7 @@
     "id": "887",
     "types": [
       "dragon",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -34125,7 +34134,7 @@
     "speed": 130,
     "id": "890",
     "types": [
-      "dark",
+      "poison",
       "dragon"
     ],
     "hasShiny": true,
@@ -34167,7 +34176,7 @@
     "speed": 130,
     "id": "10190",
     "types": [
-      "dark",
+      "poison",
       "dragon"
     ],
     "hasShiny": true,
@@ -34433,7 +34442,7 @@
     "speed": 130,
     "id": "897",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -34548,6 +34557,7 @@
     "id": "10194",
     "types": [
       "psychic",
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -34718,7 +34728,7 @@
     "id": "902",
     "types": [
       "water",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -34755,7 +34765,7 @@
     "id": "10248",
     "types": [
       "water",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -34786,7 +34796,7 @@
     "id": "903",
     "types": [
       "fighting",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -34816,7 +34826,8 @@
     "speed": 85,
     "id": "904",
     "types": [
-      "dark"
+      "dark",
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -35071,7 +35082,7 @@
     "id": "911",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -35911,7 +35922,7 @@
     "id": "937",
     "types": [
       "fire",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -36123,7 +36134,7 @@
     "speed": 75,
     "id": "944",
     "types": [
-      "dark",
+      "poison",
       "normal"
     ],
     "hasShiny": true,
@@ -36154,7 +36165,7 @@
     "speed": 110,
     "id": "945",
     "types": [
-      "dark",
+      "poison",
       "normal"
     ],
     "hasShiny": true,
@@ -36186,7 +36197,7 @@
     "id": "946",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -36217,7 +36228,7 @@
     "id": "947",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -36806,7 +36817,7 @@
     "id": "965",
     "types": [
       "steel",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -36837,7 +36848,7 @@
     "id": "966",
     "types": [
       "steel",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -36929,7 +36940,7 @@
     "id": "969",
     "types": [
       "rock",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -36960,7 +36971,7 @@
     "id": "970",
     "types": [
       "rock",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -36990,7 +37001,7 @@
     "speed": 34,
     "id": "971",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -37020,7 +37031,7 @@
     "speed": 68,
     "id": "972",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -37239,7 +37250,7 @@
     "id": "979",
     "types": [
       "fighting",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -37269,7 +37280,7 @@
     "speed": 20,
     "id": "980",
     "types": [
-      "dark",
+      "poison",
       "ground"
     ],
     "hasShiny": true,
@@ -37490,7 +37501,7 @@
     "speed": 135,
     "id": "987",
     "types": [
-      "psychic",
+      "ghost",
       "fairy"
     ],
     "hasShiny": true,
@@ -37708,7 +37719,7 @@
     "id": "994",
     "types": [
       "fire",
-      "dark"
+      "poison"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -37867,7 +37878,7 @@
     "speed": 10,
     "id": "999",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -37902,7 +37913,7 @@
     "speed": 80,
     "id": "10263",
     "types": [
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -37933,7 +37944,7 @@
     "id": "1000",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -38324,7 +38335,7 @@
     "id": "1012",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -38365,7 +38376,7 @@
     "id": "1013",
     "types": [
       "grass",
-      "psychic"
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
@@ -38394,7 +38405,7 @@
     "speed": 80,
     "id": "1014",
     "types": [
-      "dark",
+      "poison",
       "fighting"
     ],
     "hasShiny": true,
@@ -38424,7 +38435,7 @@
     "speed": 106,
     "id": "1015",
     "types": [
-      "dark",
+      "poison",
       "psychic"
     ],
     "hasShiny": true,
@@ -38454,7 +38465,7 @@
     "speed": 99,
     "id": "1016",
     "types": [
-      "dark",
+      "poison",
       "fairy"
     ],
     "hasShiny": true,
@@ -38899,8 +38910,8 @@
     "speed": 88,
     "id": "1025",
     "types": [
-      "dark",
-      "psychic"
+      "poison",
+      "ghost"
     ],
     "hasShiny": true,
     "hasCry": true
