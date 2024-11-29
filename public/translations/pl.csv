@@ -177,14 +177,22 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,Informacje prawne
 types.normal,Normal,Normalny
 types.fighting,Fighting,Walczący
+types.flying,Flying,Latający
+types.poison,Poison,Trujący
+types.ground,Ground,Ziemny
+types.rock,Rock,Kamienny
+types.bug,Bug,Robaczy
+types.ghost,Ghost,Duch
 types.steel,Steel,Stalowy
 types.fire,Fire,Ognisty
 types.water,Water,Wodny
 types.grass,Grass,Trawiasty
 types.electric,Electric,Elektryczny
 types.psychic,Psychic,Psychiczny
+types.ice,Ice,Lodowy
 types.dragon,Dragon,Smoczy
 types.dark,Dark,Mroczy
+types.fairy,Fairy,Bajkowy
 types.stellar,Stellar,
 types.none,None,Nic
 banners.updateReady.description,An update is available,Aktualizacja jest dostępna

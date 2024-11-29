@@ -177,14 +177,22 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,法律信息
 types.normal,Normal,一般
 types.fighting,Fighting,格鬥
+types.flying,Flying,飛行
+types.poison,Poison,毒
+types.ground,Ground,地面
+types.rock,Rock,岩石
+types.bug,Bug,蟲
+types.ghost,Ghost,幽靈
 types.steel,Steel,鋼
 types.fire,Fire,火
 types.water,Water,水
 types.grass,Grass,草
 types.electric,Electric,電
 types.psychic,Psychic,超能力
+types.ice,Ice,冰
 types.dragon,Dragon,龍
 types.dark,Dark,黑暗
+types.fairy,Fairy,妖精
 types.stellar,Stellar,星晶
 types.none,None,無
 banners.updateReady.description,An update is available,有更新可用

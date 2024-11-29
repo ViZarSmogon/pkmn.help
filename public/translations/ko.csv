@@ -177,14 +177,22 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,법률 정보
 types.normal,Normal,노말
 types.fighting,Fighting,격투
+types.flying,Flying,비행
+types.poison,Poison,독
+types.ground,Ground,땅
+types.rock,Rock,바위
+types.bug,Bug,벌레
+types.ghost,Ghost,고스트
 types.steel,Steel,강철
 types.fire,Fire,불꽃
 types.water,Water,물
 types.grass,Grass,풀
 types.electric,Electric,전기
 types.psychic,Psychic,에스퍼
+types.ice,Ice,얼음
 types.dragon,Dragon,드래곤
 types.dark,Dark,악
+types.fairy,Fairy,페어리
 types.stellar,Stellar,스텔라
 types.none,None,없음
 banners.updateReady.description,An update is available,새 버전이 있습니다!

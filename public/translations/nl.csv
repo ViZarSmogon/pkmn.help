@@ -177,14 +177,22 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,Legale info
 types.normal,Normal,Normaal
 types.fighting,Fighting,Vechtend
+types.flying,Flying,Vliegend
+types.poison,Poison,Gif
+types.ground,Ground,Grond
+types.rock,Rock,Rots
+types.bug,Bug,Insect
+types.ghost,Ghost,Geest
 types.steel,Steel,Staal
 types.fire,Fire,Vuur
 types.water,Water,Water
 types.grass,Grass,Gras
 types.electric,Electric,Elektrisch
 types.psychic,Psychic,Psychisch
+types.ice,Ice,IJs
 types.dragon,Dragon,Draak
 types.dark,Dark,Duister
+types.fairy,Fairy,Fee
 types.stellar,Stellar,Stellar
 types.none,None,Geen
 banners.updateReady.description,An update is available,Een update is beschikbaar

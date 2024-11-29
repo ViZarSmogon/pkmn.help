@@ -177,14 +177,22 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,法的情報
 types.normal,Normal,ノーマル
 types.fighting,Fighting,かくとう
+types.flying,Flying,ひこう
+types.poison,Poison,どく
+types.ground,Ground,じめん
+types.rock,Rock,いわ
+types.bug,Bug,むし
+types.ghost,Ghost,ゴースト
 types.steel,Steel,はがね
 types.fire,Fire,ほのお
 types.water,Water,みず
 types.grass,Grass,くさ
 types.electric,Electric,でんき
 types.psychic,Psychic,エスパー
+types.ice,Ice,こおり
 types.dragon,Dragon,ドラゴン
 types.dark,Dark,あく
+types.fairy,Fairy,フェアリー
 types.stellar,Stellar,ステラ
 types.none,None,なし
 banners.updateReady.description,An update is available,アップデートが利用可能です

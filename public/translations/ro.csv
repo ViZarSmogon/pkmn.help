@@ -177,14 +177,22 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,Informatie legala
 types.normal,Normal,Normal
 types.fighting,Fighting,Luptand
+types.flying,Flying,Zburand
+types.poison,Poison,Otrava
+types.ground,Ground,Pamânt
+types.rock,Rock,Piatra
+types.bug,Bug,Insecta
+types.ghost,Ghost,Fantoma
 types.steel,Steel,Oțel
 types.fire,Fire,Foc
 types.water,Water,Apa
 types.grass,Grass,Iarba
 types.electric,Electric,Electric
 types.psychic,Psychic,Psihic
+types.ice,Ice,Gheața
 types.dragon,Dragon,Dragon
 types.dark,Dark,Întuneric
+types.fairy,Fairy,Zana
 types.stellar,Stellar,
 types.none,None,Nimic
 banners.updateReady.description,An update is available,Poti sa updatezi

@@ -177,14 +177,22 @@ more.openSource.description,Source code is available on <github>GitHub</github>.
 more.legalInfo.heading,Legal info,Legal info
 types.normal,Normal,Normal
 types.fighting,Fighting,Kamp
+types.flying,Flying,Flyvende
+types.poison,Poison,Gift
+types.ground,Ground,Jord
+types.rock,Rock,Sten
+types.bug,Bug,Insekt
+types.ghost,Ghost,Spøgelse
 types.steel,Steel,Stål
 types.fire,Fire,Ild
 types.water,Water,Vand
 types.grass,Grass,Gras
 types.electric,Electric,Elektricitet
 types.psychic,Psychic,Psykisk
+types.ice,Ice,Is
 types.dragon,Dragon,Drage
 types.dark,Dark,Mørk
+types.fairy,Fairy,Fe
 types.stellar,Stellar,
 types.none,None,Ingen
 banners.updateReady.description,An update is available,En opdatering er mulig at udføre
