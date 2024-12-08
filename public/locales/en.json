@@ -106,12 +106,12 @@
       "lightning_rod": "Lightning Rod",
       "motor_drive": "Motor Drive",
       "volt_absorb": "Volt Absorb",
-	  "motor_drive": "Motor Drive",
       "desolate_land": "Desolate Land",
-	  "primordial_sea": "Primordial Sea",
-	  "exoskeleton": "Exoskeleton",
-	  "draconic_scales": "Draconic Scales",
-	  "corrosion": "Corrosion"
+      "primordial_sea": "Primordial Sea",
+      "water_compaction": "Water Compaction",
+      "exoskeleton": "Exoskeleton",
+      "draconic_scales": "Draconic Scales",
+      "corrosion": "Corrosion"
     },
     "mode": {
       "heading": "Choose mode",
