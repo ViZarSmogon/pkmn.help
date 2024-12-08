@@ -16,7 +16,9 @@
       "choose": "Choose special moves",
       "names": {
         "freeze-dry": "Freeze-Dry",
-        "thousand_arrows": "Thousand Arrows"
+        "thousand_arrows": "Thousand Arrows",
+		"gigaton_hammer": "Gigaton Hammer",
+		"flower_pattern": "Flower Pattern"
       }
     },
     "coverage": {
@@ -104,8 +106,12 @@
       "lightning_rod": "Lightning Rod",
       "motor_drive": "Motor Drive",
       "volt_absorb": "Volt Absorb",
-	  "water_compaction": "Water Compaction",
-	  "exoskeleton": "Exoskeleton"
+	  "motor_drive": "Motor Drive",
+      "desolate_land": "Desolate Land",
+	  "primordial_sea": "Primordial Sea",
+	  "exoskeleton": "Exoskeleton",
+	  "draconic_scales": "Draconic Scales",
+	  "corrosion": "Corrosion"
     },
     "mode": {
       "heading": "Choose mode",

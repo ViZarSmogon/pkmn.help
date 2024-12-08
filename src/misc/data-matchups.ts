@@ -268,6 +268,23 @@ export function matchupFor({
     ) {
       x = 1;
 	}
+	if (
+      t === Type.steel &&
+      specialMove === "gigaton_hammer" &&
+      offenseType === Type.steel
+    ) {
+      x = 2;
+	}
+	if (
+      (t === Type.ground || t === Type.rock || t === Type.water) &&
+      specialMove === "flower_pattern" &&
+      offenseType === Type.fairy
+    ) {
+      x = 2;
+	}
+	if (offenseAbilityName === "corrosion" && t === Type.steel && offenseType === Type.poison) {
+      x = 0.5;
+	}
     n *= x;
   }
   // Tera Pokémon take double damage from Stellar attacks

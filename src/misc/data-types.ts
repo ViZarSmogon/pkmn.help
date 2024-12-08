@@ -47,7 +47,7 @@ export const Type = {
 const typeSet = new Set(Object.values(Type));
 
 export type SpecialMove = typeof specialMoves[number];
-export const specialMoves = ["thousand_arrows", "freeze-dry"] as const;
+export const specialMoves = ["thousand_arrows", "freeze-dry", "flower_pattern", "gigaton_hammer"] as const;
 
 interface AbilityInfo {
   type: Type;
@@ -87,6 +87,12 @@ export const abilities = {
 	{ type: Type.grass, value: 0.5 },
     { type: Type.ground, value: 0.5 }
   ),
+  draconic_scales: createAbility(
+    { type: Type.electric, value: 0.5 },
+    { type: Type.fire, value: 0.5 },
+	{ type: Type.grass, value: 0.5 },
+    { type: Type.water, value: 0.5 }
+  ),
   storm_drain: createAbility({ type: Type.water, value: 0 }),
   water_absorb: createAbility({ type: Type.water, value: 0 }),
   water_compaction: createAbility({ type: Type.water, value: 0 }),
@@ -94,6 +100,8 @@ export const abilities = {
   lightning_rod: createAbility({ type: Type.electric, value: 0 }),
   motor_drive: createAbility({ type: Type.electric, value: 0 }),
   volt_absorb: createAbility({ type: Type.electric, value: 0 }),
+  desolate_land: createAbility({ type: Type.water, value: 0 }),
+  primordial_sea: createAbility({ type: Type.fire, value: 0 }),
   // Other
   filter: createAbility(),
   wonder_guard: createAbility(),
@@ -101,6 +109,7 @@ export const abilities = {
   tera_shell: createAbility(),
   tinted_lens: createAbility(),
   scrappy: createAbility(),
+  corrosion: createAbility(),
 } as const;
 
 const abilitySet = new Set(Object.keys(abilities));

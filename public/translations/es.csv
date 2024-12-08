@@ -10,6 +10,9 @@ offense.abilities.choose,Choose abilities,Escoger habilidades
 offense.specialMoves.choose,Choose special moves,Escoger movimientos especiales
 offense.specialMoves.names.freeze-dry,Freeze-Dry,Liofilización
 offense.specialMoves.names.thousand_arrows,Thousand Arrows,Mil Flechas
+offense.specialMoves.names.gigaton_hammer,Gigaton Hammer,
+offense.specialMoves.names.brute_force,Brute Force,
+offense.specialMoves.names.flower_pattern,Flower Pattern,
 offense.coverage.heading,Pokédex coverage,Cobertura Pokédex
 offense.coverage.edit,Edit list,Modificar lista
 offense.coverage.weakness,Weak,Debilidad
@@ -72,6 +75,8 @@ defense.abilityNames.motor_drive,Motor Drive,Electromotor
 defense.abilityNames.volt_absorb,Volt Absorb,Absorbe electricidad
 defense.abilityNames.water_compaction,Water Compaction,
 defense.abilityNames.exoskeleton,Exoskeleton,
+defense.abilityNames.draconic_scales,Draconic Scales,
+defense.abilityNames.corrosion,Corrosion,
 defense.mode.heading,Choose mode,Elige un modo
 defense.mode.solo,Solo,Solo
 defense.mode.team,Team,Equipo
