@@ -87,12 +87,6 @@ export const abilities = {
 	{ type: Type.grass, value: 0.5 },
     { type: Type.ground, value: 0.5 }
   ),
-  draconic_scales: createAbility(
-    { type: Type.electric, value: 0.5 },
-    { type: Type.fire, value: 0.5 },
-	{ type: Type.grass, value: 0.5 },
-    { type: Type.water, value: 0.5 }
-  ),
   storm_drain: createAbility({ type: Type.water, value: 0 }),
   water_absorb: createAbility({ type: Type.water, value: 0 }),
   water_compaction: createAbility({ type: Type.water, value: 0 }),
