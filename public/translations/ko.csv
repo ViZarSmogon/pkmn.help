@@ -11,7 +11,6 @@ offense.specialMoves.choose,Choose special moves,
 offense.specialMoves.names.freeze-dry,Freeze-Dry,프리즈드라이
 offense.specialMoves.names.thousand_arrows,Thousand Arrows,사우전드애로
 offense.specialMoves.names.gigaton_hammer,Gigaton Hammer,
-offense.specialMoves.names.brute_force,Brute Force,
 offense.specialMoves.names.flower_pattern,Flower Pattern,
 offense.coverage.heading,Pokédex coverage,포켓몬 도감과 비교하기
 offense.coverage.edit,Edit list,포켓몬 목록 편집
@@ -73,9 +72,10 @@ defense.abilityNames.sap_sipper,Sap Sipper,흡수
 defense.abilityNames.lightning_rod,Lightning Rod,피뢰침
 defense.abilityNames.motor_drive,Motor Drive,전기엔진
 defense.abilityNames.volt_absorb,Volt Absorb,축전
+defense.abilityNames.desolate_land,Desolate Land,
+defense.abilityNames.primordial_sea,Primordial Sea,
 defense.abilityNames.water_compaction,Water Compaction,
 defense.abilityNames.exoskeleton,Exoskeleton,
-defense.abilityNames.draconic_scales,Draconic Scales,
 defense.abilityNames.corrosion,Corrosion,
 defense.mode.heading,Choose mode,배틀 룰 선택
 defense.mode.solo,Solo,싱글

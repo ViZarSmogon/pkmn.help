@@ -11,7 +11,6 @@ offense.specialMoves.choose,Choose special moves,选择特别招式
 offense.specialMoves.names.freeze-dry,Freeze-Dry,冷冻干燥
 offense.specialMoves.names.thousand_arrows,Thousand Arrows,千箭齐发
 offense.specialMoves.names.gigaton_hammer,Gigaton Hammer,
-offense.specialMoves.names.brute_force,Brute Force,
 offense.specialMoves.names.flower_pattern,Flower Pattern,
 offense.coverage.heading,Pokédex coverage,宝可梦图鉴覆盖率
 offense.coverage.edit,Edit list,编辑列表
@@ -73,9 +72,10 @@ defense.abilityNames.sap_sipper,Sap Sipper,食草
 defense.abilityNames.lightning_rod,Lightning Rod,避雷针
 defense.abilityNames.motor_drive,Motor Drive,电气引擎
 defense.abilityNames.volt_absorb,Volt Absorb,蓄电
+defense.abilityNames.desolate_land,Desolate Land,
+defense.abilityNames.primordial_sea,Primordial Sea,
 defense.abilityNames.water_compaction,Water Compaction,
 defense.abilityNames.exoskeleton,Exoskeleton,
-defense.abilityNames.draconic_scales,Draconic Scales,
 defense.abilityNames.corrosion,Corrosion,
 defense.mode.heading,Choose mode,选择模式
 defense.mode.solo,Solo,单只模式

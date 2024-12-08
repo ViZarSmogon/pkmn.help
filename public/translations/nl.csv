@@ -11,7 +11,6 @@ offense.specialMoves.choose,Choose special moves,
 offense.specialMoves.names.freeze-dry,Freeze-Dry,
 offense.specialMoves.names.thousand_arrows,Thousand Arrows,
 offense.specialMoves.names.gigaton_hammer,Gigaton Hammer,
-offense.specialMoves.names.brute_force,Brute Force,
 offense.specialMoves.names.flower_pattern,Flower Pattern,
 offense.coverage.heading,Pokédex coverage,Pokédex overschaduwing
 offense.coverage.edit,Edit list,Bewerk lijst
@@ -73,9 +72,10 @@ defense.abilityNames.sap_sipper,Sap Sipper,Sap Sipper
 defense.abilityNames.lightning_rod,Lightning Rod,Lightning Rod
 defense.abilityNames.motor_drive,Motor Drive,Motor Drive
 defense.abilityNames.volt_absorb,Volt Absorb,Volt Absorb
+defense.abilityNames.desolate_land,Desolate Land,
+defense.abilityNames.primordial_sea,Primordial Sea,
 defense.abilityNames.water_compaction,Water Compaction,
 defense.abilityNames.exoskeleton,Exoskeleton,
-defense.abilityNames.draconic_scales,Draconic Scales,
 defense.abilityNames.corrosion,Corrosion,
 defense.mode.heading,Choose mode,Kies modus
 defense.mode.solo,Solo,Solo
