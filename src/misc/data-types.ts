@@ -73,8 +73,14 @@ export const abilities = {
     { type: Type.ice, value: 0.5 }
   ),
   // Immunities
-  earth_eater: createAbility({ type: Type.ground, value: 0 }),
-  levitate: createAbility({ type: Type.ground, value: 0 }),
+  earth_eater: createAbility(
+    { type: Type.ground, value: 0 },
+    { type: Type.rock, value: 0 }
+  ),
+  levitate: createAbility(
+    { type: Type.ground, value: 0 },
+    { type: Type.rock, value: 0 }
+  ),
   flash_fire: createAbility({ type: Type.fire, value: 0 }),
   well_baked_body: createAbility({ type: Type.fire, value: 0 }),
   dry_skin: createAbility(
