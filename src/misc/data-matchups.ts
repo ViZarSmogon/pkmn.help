@@ -80,24 +80,24 @@ const gen2 = [
 ];
 
 const genDefault = [
-  [_, _, _, _, _, _, _, _, _, _, _, _, h, 0, _, _, h, _, _],
-  [_, h, h, _, 2, 2, _, _, _, _, _, 2, h, _, h, _, 2, _, _],
-  [_, 2, h, _, h, _, _, _, 2, _, _, _, 2, _, h, _, _, _, _],
-  [_, _, 2, h, h, _, _, _, 0, 2, _, _, _, _, h, _, _, _, _],
-  [_, h, 2, _, h, _, _, h, 2, h, _, h, 2, _, h, _, h, _, _],
-  [_, h, h, _, 2, h, _, _, 2, 2, _, _, _, _, 2, _, h, _, _],
-  [2, _, _, _, _, 2, _, h, _, h, h, h, 2, 0, _, 2, 2, h, _],
-  [_, _, _, _, 2, _, _, h, h, _, _, _, h, h, _, _, 0, 2, _],
-  [_, 2, _, 2, h, _, _, 2, _, 0, _, h, 2, _, _, _, 2, _, _],
-  [_, _, _, h, 2, _, 2, _, _, _, _, 2, h, _, _, _, h, _, _],
-  [_, _, _, _, _, _, 2, 2, _, _, h, _, _, _, _, 0, h, _, _],
-  [_, h, _, _, 2, _, h, h, _, h, 2, _, _, h, _, 2, h, h, _],
-  [_, 2, _, _, _, 2, h, _, h, 2, _, 2, _, _, _, _, h, _, _],
-  [0, _, _, _, _, _, _, _, _, _, 2, _, _, 2, _, h, _, _, _],
-  [_, _, _, _, _, _, _, _, _, _, _, _, _, _, 2, _, h, 0, _],
-  [_, _, _, _, _, _, h, _, _, _, 2, _, _, 2, _, h, _, h, _],
-  [_, h, h, h, _, 2, _, _, _, _, _, _, 2, _, _, _, h, 2, _],
-  [_, h, _, _, _, _, 2, h, _, _, _, _, _, _, 2, 2, h, _, _],
+  [_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, h, _, _],
+  [_, h, h, _, 2, h, _, _, _, _, _, 2, _, _, h, _, 2, _, _],
+  [_, 2, h, _, h, h, _, _, _, _, _, h, _, _, h, _, _, _, _],
+  [_, _, 2, h, h, 2, _, _, _, _, _, h, _, _, h, _, _, _, _],
+  [_, h, 2, _, h, 2, _, _, _, _, _, h, _, _, h, _, h, _, _],
+  [_, 2, h, _, h, h, _, _, _, _, _, h, _, _, h, _, _, _, _],
+  [0, _, _, _, _, _, _, 2, _, _, h, _, _, h, _, 2, 2, h, _],
+  [_, _, _, _, _, _, h, h, h, _, 2, _, h, 2, _, h, _, 2, _],
+  [0, _, _, _, _, _, _, 2, _, _, h, _, _, h, _, 2, 2, h, _],
+  [_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, h, _, _],
+  [_, _, _, _, _, _, 2, 0, 2, _, h, _, 2, h, _, 0, h, h, _],
+  [_, h, 2, _, h, 2, _, _, _, _, _, h, _, _, h, _, h, _, _],
+  [0, _, _, _, _, _, _, 2, _, _, h, _, _, h, _, 2, 2, h, _],
+  [_, _, _, _, _, _, 2, 0, 2, _, h, _, 2, h, _, 0, h, h, _],
+  [_, _, _, _, _, _, _, _, _, _, _, _, _, _, 2, _, h, _, _],
+  [_, _, _, _, _, _, h, h, h, _, 2, _, h, 2, _, h, _, 2, _],
+  [_, h, h, h, _, h, _, _, _, _, _, _, _, _, _, _, h, _, _],
+  [_, _, _, _, _, _, 2, 0, 2, _, h, _, 2, h, _, 0, h, h, _],
   [_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _],
 ];
 
@@ -237,12 +237,12 @@ export function matchupFor({
     // https://bulbapedia.bulbagarden.net/wiki/Scrappy_(Ability)
     if (
       offenseAbilityName === "scrappy" &&
-      t === Type.ghost &&
-      (offenseType === Type.normal || offenseType === Type.fighting)
+      (t === Type.normal || t === Type.flying) &&
+      (offenseType === Type.ground || offenseType === Type.fighting || offenseType === Type.rock)
     ) {
       x = 1;
     }
-    if (t === Type.flying && abilityName === "delta_stream" && x > 1) {
+    if (t === Type.normal && abilityName === "delta_stream" && x > 1) {
       // Delta stream protects flying types from super effective damage
       //
       // https://bulbapedia.bulbagarden.net/wiki/Delta_Stream_(Ability)
@@ -252,9 +252,9 @@ export function matchupFor({
     //
     // https://bulbapedia.bulbagarden.net/wiki/Freeze-Dry_(move)
     if (
-      t === Type.water &&
+      (t === Type.ice || t === Type.water) &&
       specialMove === "freeze-dry" &&
-      offenseType === Type.ice
+      (offenseType === Type.ice || offenseType === Type.water)
     ) {
       x = 2;
     }
@@ -262,9 +262,9 @@ export function matchupFor({
     //
     // https://bulbapedia.bulbagarden.net/wiki/Thousand_Arrows_(move)
     if (
-      t === Type.flying &&
+      (t === Type.normal || t === Type.flying) &&
       specialMove === "thousand_arrows" &&
-      offenseType === Type.ground
+      (offenseType === Type.ground || offenseType === Type.fighting || offenseType === Type.rock)
     ) {
       x = 1;
     }
