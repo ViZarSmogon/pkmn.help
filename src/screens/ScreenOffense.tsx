@@ -86,6 +86,8 @@ export function ScreenOffense(): ReactNode {
     },
     { id: "scrappy", name: t(`defense.abilityNames.scrappy`) },
     { id: "corrosion", name: t(`defense.abilityNames.corrosion`) },
+    { id: "psychic_might", name: t(`defense.abilityNames.psychic_might`) },
+    { id: "master", name: t(`defense.abilityNames.master`) },
   ] as const;
   abilitiesOptions.sort((a, b) => {
     return compare(a.name, b.name);

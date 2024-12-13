@@ -87,17 +87,17 @@ const genDefault = [
   [_, h, 2, _, h, _, _, h, 2, h, _, h, 2, _, h, _, h, _, _],
   [_, h, h, _, 2, h, _, _, 2, 2, _, _, _, _, 2, _, h, _, _],
   [2, _, _, _, _, 2, _, h, _, h, h, h, 2, 0, _, 2, 2, h, _],
-  [_, _, _, _, 2, _, _, h, h, _, _, _, h, h, _, _, 0, 2, _],
-  [_, 2, h, 2, h, h, _, 2, _, 0, _, h, 2, _, _, _, 2, _, _],
+  [_, _, _, _, 2, _, _, h, h, _, _, _, h, h, _, _, h, 2, _],
+  [_, 2, _, 2, h, h, _, 2, _, 0, _, h, 2, _, _, _, 2, _, _],
   [_, _, _, h, 2, h, 2, _, _, _, _, 2, h, _, _, _, h, _, _],
   [_, _, _, _, _, _, 2, 2, _, _, h, _, _, _, _, 0, h, _, _],
-  [_, h, _, _, 2, _, h, h, _, h, 2, _, _, h, _, 2, h, h, _],
+  [_, h, _, _, 2, _, h, h, _, h, 2, _, _, h, _, 2, _, _, _],
   [_, 2, _, _, h, 2, h, _, h, 2, _, 2, _, _, _, _, h, _, _],
-  [0, h, _, _, _, _, _, _, _, _, 2, _, _, 2, _, h, _, _, _],
+  [0, _, _, _, _, _, _, _, _, _, 2, _, _, 2, _, h, _, _, _],
   [_, _, _, _, _, _, _, _, _, _, _, _, _, _, 2, _, h, 0, _],
   [_, _, _, _, _, _, h, _, _, _, 2, h, _, 2, _, h, _, h, _],
-  [_, h, h, h, _, 2, _, _, _, _, _, _, 2, _, _, _, h, 2, _],
-  [_, h, _, _, _, _, 2, h, _, _, _, _, _, _, 2, 2, h, _, _],
+  [_, h, h, h, _, 2, _, _, _, _, _, _, 2, _, _, _, _, 2, _],
+  [_, h, _, _, _, _, 2, h, _, _, _, h, _, _, 2, 2, h, _, _],
   [_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _],
 ];
 
@@ -282,6 +282,12 @@ export function matchupFor({
     ) {
       x = 2;
 	}
+	if (
+      offenseAbilityName === "psychic_might" &&
+      ((offenseType === Type.ghost && t === Type.normal) || (offenseType === Type.psychic && t === Type.dark))
+    ) {
+      x = 1;
+	}
 	if (offenseAbilityName === "corrosion" && t === Type.steel && offenseType === Type.poison) {
       x = 2;
 	}
@@ -298,6 +304,13 @@ export function matchupFor({
   // https://bulbapedia.bulbagarden.net/wiki/Tinted_Lens_(Ability)
   if (offenseAbilityName === "tinted_lens" && n < 1) {
     n *= 2;
+  }
+  if (offenseAbilityName === "master") {
+	if (n >= 2) {
+      n *= 2;
+	} else if (n < 2) {
+      n *= 0.5;
+    }
   }
   // Wonder guard blocks all non-super effective damage
   //

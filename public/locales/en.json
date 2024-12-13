@@ -110,7 +110,10 @@
       "primordial_sea": "Primordial Sea",
       "water_compaction": "Water Compaction",
       "exoskeleton": "Exoskeleton",
-      "corrosion": "Corrosion"
+      "corrosion": "Corrosion",
+      "psychic_might": "Psychic Might",
+      "damp": "Damp",
+      "master": "Master"
     },
     "mode": {
       "heading": "Choose mode",

@@ -83,9 +83,14 @@ export const abilities = {
   ),
   exoskeleton: createAbility(
     { type: Type.dark, value: 0.5 },
+    { type: Type.fairy, value: 0.5 },
     { type: Type.fighting, value: 0.5 },
-	{ type: Type.grass, value: 0.5 },
+    { type: Type.grass, value: 0.5 },
     { type: Type.ground, value: 0.5 }
+  ),
+  damp: createAbility(
+    { type: Type.electric, value: 0.33 },
+    { type: Type.fire, value: 0.33 },
   ),
   storm_drain: createAbility({ type: Type.water, value: 0 }),
   water_absorb: createAbility({ type: Type.water, value: 0 }),
@@ -104,6 +109,8 @@ export const abilities = {
   tinted_lens: createAbility(),
   scrappy: createAbility(),
   corrosion: createAbility(),
+  psychic_might: createAbility(),
+  master: createAbility(),
 } as const;
 
 const abilitySet = new Set(Object.keys(abilities));
