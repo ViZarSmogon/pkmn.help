@@ -235,14 +235,13 @@ export function matchupFor({
     // Ghost can be hurt normally by Normal and Fighting
     //
     // https://bulbapedia.bulbagarden.net/wiki/Scrappy_(Ability)
-    if (
-      offenseAbilityName === "scrappy" &&
-      (t === Type.normal || t === Type.flying) &&
-      (offenseType === Type.ground || offenseType === Type.fighting || offenseType === Type.rock)
+    if (offenseAbilityName === "scrappy" &&
+      (t === Type.flying || t === Type.normal) &&
+      (offenseType === Type.fighting || offenseType === Type.ground || offenseType === Type.rock)
     ) {
       x = 1;
     }
-    if (t === Type.normal && abilityName === "delta_stream" && x > 1) {
+    if ((t === Type.flying || t === Type.normal) && abilityName === "delta_stream" && x > 1) {
       // Delta stream protects flying types from super effective damage
       //
       // https://bulbapedia.bulbagarden.net/wiki/Delta_Stream_(Ability)
@@ -252,9 +251,9 @@ export function matchupFor({
     //
     // https://bulbapedia.bulbagarden.net/wiki/Freeze-Dry_(move)
     if (
-      (t === Type.ice || t === Type.water) &&
+      (t === Type.water || t === Type.ice) &&
       specialMove === "freeze-dry" &&
-      (offenseType === Type.ice || offenseType === Type.water)
+      (offenseType === Type.water || offenseType === Type.ice)
     ) {
       x = 2;
     }
@@ -262,9 +261,9 @@ export function matchupFor({
     //
     // https://bulbapedia.bulbagarden.net/wiki/Thousand_Arrows_(move)
     if (
-      (t === Type.normal || t === Type.flying) &&
+      (t === Type.flying || t === Type.normal) &&
       specialMove === "thousand_arrows" &&
-      (offenseType === Type.ground || offenseType === Type.fighting || offenseType === Type.rock)
+      (offenseType === Type.fighting || offenseType === Type.ground || offenseType === Type.rock)
     ) {
       x = 1;
     }

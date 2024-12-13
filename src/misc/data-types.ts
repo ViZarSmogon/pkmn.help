@@ -67,32 +67,32 @@ export const abilities = {
   // Resistances
   purifying_salt: createAbility(
     { type: Type.ghost, value: 0.5 },
-    { type: Type.psychic, value: 0.5 }
+    { type: Type.psychic, value: 0.5 },
 	{ type: Type.fairy, value: 0.5 }
   ),
   heatproof: createAbility({ type: Type.fire, value: 0.5 }),
   water_bubble: createAbility({ type: Type.fire, value: 0.5 }),
   thick_fat: createAbility(
     { type: Type.fire, value: 0.5 },
-    { type: Type.ice, value: 0.5 }
+    { type: Type.ice, value: 0.5 },
 	{ type: Type.water, value: 0.5 }
   ),
   // Immunities
   earth_eater: createAbility(
-    { type: Type.ghost, value: 0 },
-    { type: Type.psychic, value: 0 }
-	{ type: Type.fairy, value: 0 }
+    { type: Type.fighting, value: 0 },
+    { type: Type.rock, value: 0 },
+	{ type: Type.ground, value: 0 }
   ),
   levitate: createAbility(
-    { type: Type.ghost, value: 0 },
-    { type: Type.psychic, value: 0 }
-	{ type: Type.fairy, value: 0 }
+    { type: Type.fighting, value: 0 },
+    { type: Type.rock, value: 0 },
+	{ type: Type.ground, value: 0 }
   ),
   flash_fire: createAbility({ type: Type.fire, value: 0 }),
   well_baked_body: createAbility({ type: Type.fire, value: 0 }),
   dry_skin: createAbility(
     { type: Type.fire, value: 1.25 },
-    { type: Type.water, value: 0 }
+    { type: Type.water, value: 0 },
 	{ type: Type.ice, value: 0 }
   ),
   storm_drain: createAbility(

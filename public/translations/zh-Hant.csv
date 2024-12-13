@@ -64,14 +64,14 @@ defense.abilityNames.levitate,Levitate,飄浮
 defense.abilityNames.flash_fire,Flash Fire,熾熱火焰
 defense.abilityNames.well_baked_body,Well-Baked Body,烤得好的身體
 defense.abilityNames.dry_skin,Dry Skin,乾燥皮膚
-defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.storm_drain,Storm Drain,排水孔
 defense.abilityNames.water_absorb,Water Absorb,吸水
 defense.abilityNames.sap_sipper,Sap Sipper,吸汁器
 defense.abilityNames.lightning_rod,Lightning Rod,閃電棒
 defense.abilityNames.motor_drive,Motor Drive,電能引擎
 defense.abilityNames.volt_absorb,Volt Absorb,吸電
-defense.abilityNames.water_compaction,Water Compaction,
+defense.abilityNames.desolate_land,Desolate Land,
+defense.abilityNames.primordial_sea,Primordial Sea,
 defense.mode.heading,Choose mode,選擇模式
 defense.mode.solo,Solo,單打
 defense.mode.team,Team,隊伍
