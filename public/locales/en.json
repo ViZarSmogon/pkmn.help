@@ -18,7 +18,7 @@
         "freeze-dry": "Freeze-Dry",
         "thousand_arrows": "Thousand Arrows",
 		"gigaton_hammer": "Gigaton Hammer",
-		"flower_pattern": "Flower Pattern"
+		"heavy_beak": "Heavy Beak"
       }
     },
     "coverage": {
@@ -111,9 +111,7 @@
       "water_compaction": "Water Compaction",
       "exoskeleton": "Exoskeleton",
       "corrosion": "Corrosion",
-      "psychic_might": "Psychic Might",
-      "damp": "Damp",
-      "master": "Master"
+      "damp": "Damp"
     },
     "mode": {
       "heading": "Choose mode",

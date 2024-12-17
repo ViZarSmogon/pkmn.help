@@ -12,6 +12,7 @@ offense.specialMoves.names.freeze-dry,Freeze-Dry,冷凍乾燥
 offense.specialMoves.names.thousand_arrows,Thousand Arrows,千箭齊發
 offense.specialMoves.names.gigaton_hammer,Gigaton Hammer,
 offense.specialMoves.names.flower_pattern,Flower Pattern,
+offense.specialMoves.names.heavy_beak,Heavy Beak,
 offense.coverage.heading,Pokédex coverage,寶可夢圖鑑涵蓋範圍
 offense.coverage.edit,Edit list,編輯列表
 offense.coverage.weakness,Weak,弱點
@@ -77,6 +78,8 @@ defense.abilityNames.primordial_sea,Primordial Sea,
 defense.abilityNames.water_compaction,Water Compaction,
 defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.corrosion,Corrosion,
+defense.abilityNames.psychic_might,Psychic Might,
+defense.abilityNames.damp,Damp,
 defense.mode.heading,Choose mode,選擇模式
 defense.mode.solo,Solo,單打
 defense.mode.team,Team,隊伍

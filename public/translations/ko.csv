@@ -12,6 +12,7 @@ offense.specialMoves.names.freeze-dry,Freeze-Dry,프리즈드라이
 offense.specialMoves.names.thousand_arrows,Thousand Arrows,사우전드애로
 offense.specialMoves.names.gigaton_hammer,Gigaton Hammer,
 offense.specialMoves.names.flower_pattern,Flower Pattern,
+offense.specialMoves.names.heavy_beak,Heavy Beak,
 offense.coverage.heading,Pokédex coverage,포켓몬 도감과 비교하기
 offense.coverage.edit,Edit list,포켓몬 목록 편집
 offense.coverage.weakness,Weak,약점인 포켓몬
@@ -77,6 +78,8 @@ defense.abilityNames.primordial_sea,Primordial Sea,
 defense.abilityNames.water_compaction,Water Compaction,
 defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.corrosion,Corrosion,
+defense.abilityNames.psychic_might,Psychic Might,
+defense.abilityNames.damp,Damp,
 defense.mode.heading,Choose mode,배틀 룰 선택
 defense.mode.solo,Solo,싱글
 defense.mode.team,Team,더블

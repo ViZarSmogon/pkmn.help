@@ -68,7 +68,7 @@ export function ScreenOffense(): ReactNode {
     },
     { id: "freeze-dry", name: t(`offense.specialMoves.names.freeze-dry`) },
     { id: "gigaton_hammer", name: t(`offense.specialMoves.names.gigaton_hammer`) },
-    { id: "flower_pattern", name: t(`offense.specialMoves.names.flower_pattern`) },
+    { id: "heavy_beak", name: t(`offense.specialMoves.names.heavy_beak`) },
   ] as const;
   specialMovesOptions.sort((a, b) => {
     return compare(a.name, b.name);
@@ -86,8 +86,6 @@ export function ScreenOffense(): ReactNode {
     },
     { id: "scrappy", name: t(`defense.abilityNames.scrappy`) },
     { id: "corrosion", name: t(`defense.abilityNames.corrosion`) },
-    { id: "psychic_might", name: t(`defense.abilityNames.psychic_might`) },
-    { id: "master", name: t(`defense.abilityNames.master`) },
   ] as const;
   abilitiesOptions.sort((a, b) => {
     return compare(a.name, b.name);

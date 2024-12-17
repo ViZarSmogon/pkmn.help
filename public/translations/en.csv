@@ -12,6 +12,7 @@ offense.specialMoves.names.freeze-dry,Freeze-Dry,Freeze-Dry
 offense.specialMoves.names.thousand_arrows,Thousand Arrows,Thousand Arrows
 offense.specialMoves.names.gigaton_hammer,Gigaton Hammer,Gigaton Hammer
 offense.specialMoves.names.flower_pattern,Flower Pattern,Flower Pattern
+offense.specialMoves.names.heavy_beak,Heavy Beak,Heavy Beak
 offense.coverage.heading,Pokédex coverage,Pokédex coverage
 offense.coverage.edit,Edit list,Edit list
 offense.coverage.weakness,Weak,Weak
@@ -77,6 +78,8 @@ defense.abilityNames.primordial_sea,Primordial Sea,Primordial Sea
 defense.abilityNames.water_compaction,Water Compaction,Water Compaction
 defense.abilityNames.exoskeleton,Exoskeleton,Exoskeleton
 defense.abilityNames.corrosion,Corrosion,Corrosion
+defense.abilityNames.psychic_might,Psychic Might,Psychic Might
+defense.abilityNames.damp,Damp,Damp
 defense.mode.heading,Choose mode,Choose mode
 defense.mode.solo,Solo,Solo
 defense.mode.team,Team,Team
