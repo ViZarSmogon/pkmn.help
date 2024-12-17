@@ -93,7 +93,7 @@ export function ScreenDefense(): ReactNode {
   // manually and add a divider after it
   const sortedAbilityNames = strongKeys(abilities)
     .filter((name) => {
-      return !(name === "none" || name === "scrappy" || name === "tinted_lens");
+      return !(name === "none" || name === "scrappy" || name === "tinted_lens" || name === "corrosion");
     })
     .sort((a, b) => {
       const ta = t(`defense.abilityNames.${a}`);

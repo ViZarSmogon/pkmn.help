@@ -16,7 +16,9 @@
       "choose": "Choose special moves",
       "names": {
         "freeze-dry": "Freeze-Dry",
-        "thousand_arrows": "Thousand Arrows"
+        "thousand_arrows": "Thousand Arrows",
+        "gigaton_hammer": "Gigaton Hammer",
+        "heavy_beak": "Heavy Beak"
       }
     },
     "coverage": {
@@ -105,7 +107,11 @@
       "motor_drive": "Motor Drive",
       "volt_absorb": "Volt Absorb",
       "desolate_land": "Desolate Land",
-      "primordial_sea": "Primordial Sea"
+      "primordial_sea": "Primordial Sea",
+      "water_compaction": "Water Compaction",
+      "exoskeleton": "Exoskeleton",
+      "corrosion": "Corrosion",
+      "damp": "Damp"
     },
     "mode": {
       "heading": "Choose mode",
