@@ -11,7 +11,6 @@ offense.specialMoves.choose,Choose special moves,Spezialattacke auswählen
 offense.specialMoves.names.freeze-dry,Freeze-Dry,Gefriertrockner
 offense.specialMoves.names.thousand_arrows,Thousand Arrows,Tausend Pfeile
 offense.specialMoves.names.gigaton_hammer,Gigaton Hammer,
-offense.specialMoves.names.flower_pattern,Flower Pattern,
 offense.specialMoves.names.heavy_beak,Heavy Beak,
 offense.coverage.heading,Pokédex coverage,Pokédex Abdeckung
 offense.coverage.edit,Edit list,Editiere Liste
@@ -78,7 +77,6 @@ defense.abilityNames.primordial_sea,Primordial Sea,
 defense.abilityNames.water_compaction,Water Compaction,
 defense.abilityNames.exoskeleton,Exoskeleton,
 defense.abilityNames.corrosion,Corrosion,
-defense.abilityNames.psychic_might,Psychic Might,
 defense.abilityNames.damp,Damp,
 defense.mode.heading,Choose mode,Modus auswählen
 defense.mode.solo,Solo,Solo
